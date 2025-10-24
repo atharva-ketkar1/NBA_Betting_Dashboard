@@ -1,5 +1,5 @@
 import requests
-import csv
+import json
 import os
 import time
 import random
@@ -15,7 +15,14 @@ PLAYER_PROP_CATEGORIES = {
     'Points': '12488',
     'Threes Made': '12497',
     'Rebounds': '12492',
-    'Assists': '12495'
+    'Assists': '12495',
+    'Rebounds + Assists': '9974',
+    'Points + Rebounds + Assists': '5001',
+    'Points + Rebounds': '9976',
+    'Points + Assists': '9973',
+    'Steals': '13508',
+    'Blocks': '13780',
+    'Steals + Blocks': '13781'
 }
 
 OUTPUT_DIR = "draftkings_nba_props"
@@ -95,9 +102,9 @@ def parse_props(data, prop_type_name):
             game_date = datetime.today().strftime('%Y-%m-%d')  # fallback
 
         parsed_props.append({
-            'player_name': player_name,
+            'player': player_name.lower(),  # Changed from 'player_name' to 'player' and lowercase
             'game': event.get('name', 'Unknown Game'),
-            'prop_type': prop_type_name,
+            'prop_type': prop_type_name.lower(),  # Lowercase for easier normalization
             'line': over_sel.get('points'),
             'over_odds': over_sel.get('displayOdds', {}).get('american'),
             'under_odds': under_sel.get('displayOdds', {}).get('american'),
@@ -108,28 +115,46 @@ def parse_props(data, prop_type_name):
     print(f"  -> Found {len(parsed_props)} {prop_type_name} props")
     return parsed_props
 
-# --- SAVE CSV ---
-def save_props_to_csv(props):
+# --- SAVE JSON ---
+def save_props_to_json(props):
     if not props:
         return
+    
     # Group props by game_date
     grouped = defaultdict(list)
     for prop in props:
         grouped[prop['game_date']].append(prop)
 
     for date, props_list in grouped.items():
-        file_path = os.path.join(OUTPUT_DIR, f"draftkings_nba_props_{date}.csv")
-        fieldnames = ['player_name', 'game', 'prop_type', 'line', 'over_odds', 'under_odds', 'sportsbook', 'game_date']
-        file_exists = os.path.exists(file_path)
+        file_path = os.path.join(OUTPUT_DIR, f"draftkings_nba_props_{date}.json")
+        
+        # If file exists, load existing data and append
+        existing_props = []
+        if os.path.exists(file_path):
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    existing_props = json.load(f)
+            except json.JSONDecodeError:
+                print(f"  ⚠️  Warning: Could not read existing {file_path}, overwriting...")
+                existing_props = []
+        
+        # Combine and remove duplicates based on player + prop_type + line
+        all_props = existing_props + props_list
+        
+        # Remove duplicates (keep latest)
+        unique_props = {}
+        for prop in all_props:
+            key = (prop['player'], prop['prop_type'], prop['line'])
+            unique_props[key] = prop  # Will overwrite with latest
+        
+        final_props = list(unique_props.values())
+        
         try:
-            with open(file_path, 'a', newline='', encoding='utf-8') as f:
-                writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
-                if not file_exists:
-                    writer.writeheader()
-                writer.writerows(props_list)
-            print(f"  ✅ Saved {len(props_list)} props to {file_path}")
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(final_props, f, indent=2, ensure_ascii=False)
+            print(f"  ✅ Saved {len(final_props)} props to {file_path}")
         except Exception as e:
-            print(f"  ❌ Error saving CSV for {date}: {e}")
+            print(f"  ❌ Error saving JSON for {date}: {e}")
 
 # --- MAIN EXECUTION ---
 def run_nba_scraper():
@@ -141,7 +166,7 @@ def run_nba_scraper():
         all_props.extend(props)
         time.sleep(random.uniform(1.5, 3.0))
 
-    save_props_to_csv(all_props)
+    save_props_to_json(all_props)  # Changed from save_props_to_csv
     print("\n✅ NBA DraftKings prop scraping complete!")
 
 if __name__ == "__main__":
