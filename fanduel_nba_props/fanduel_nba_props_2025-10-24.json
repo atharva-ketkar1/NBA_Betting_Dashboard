@@ -1,0 +1,1722 @@
+[
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "trae young",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 23.5,
+    "over_odds": -106,
+    "under_odds": -125
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "wendell carter",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 24.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "anthony black",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -112,
+    "under_odds": -118
+  },
+  {
+    "player": "tristan da silva",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "zaccharie risacher",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "onyeka okongwu",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -102,
+    "under_odds": -130
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -128,
+    "under_odds": -104
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -128,
+    "under_odds": -104
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 134,
+    "under_odds": -180
+  },
+  {
+    "player": "trae young",
+    "team": "Atlanta Hawks",
+    "prop_type": "assists",
+    "line": 9.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": -166,
+    "under_odds": 124
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 100,
+    "under_odds": -132
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 134,
+    "under_odds": -180
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -166,
+    "under_odds": 124
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 126,
+    "under_odds": -168
+  },
+  {
+    "player": "zaccharie risacher",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 116,
+    "under_odds": -154
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -158,
+    "under_odds": 118
+  },
+  {
+    "player": "wendell carter",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -138,
+    "under_odds": 104
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": 108,
+    "under_odds": -144
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 126,
+    "under_odds": -168
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 110,
+    "under_odds": -146
+  },
+  {
+    "player": "trae young",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -172,
+    "under_odds": 128
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -136,
+    "under_odds": 102
+  },
+  {
+    "player": "onyeka okongwu",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -154,
+    "under_odds": 116
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 142,
+    "under_odds": -192
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 17.5,
+    "over_odds": -106,
+    "under_odds": -125
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "pa",
+    "line": 26.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "ra",
+    "line": 11.5,
+    "over_odds": -140,
+    "under_odds": 106
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 32.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -110,
+    "under_odds": -120
+  },
+  {
+    "player": "wendell carter",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -128,
+    "under_odds": -104
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": 110,
+    "under_odds": -146
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -102,
+    "under_odds": -130
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -128,
+    "under_odds": -104
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 36.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "zaccharie risacher",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -102,
+    "under_odds": -130
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 15.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 32.5,
+    "over_odds": -118,
+    "under_odds": -112
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "pa",
+    "line": 21.5,
+    "over_odds": -118,
+    "under_odds": -112
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -132,
+    "under_odds": 100
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 27.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 18.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 26.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 23.5,
+    "over_odds": -118,
+    "under_odds": -112
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 31.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 25.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 27.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 22.5,
+    "over_odds": -112,
+    "under_odds": -118
+  },
+  {
+    "player": "trae young",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": -106,
+    "under_odds": -125
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 5.5,
+    "over_odds": -136,
+    "under_odds": 102
+  },
+  {
+    "player": "onyeka okongwu",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": -132,
+    "under_odds": 100
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 12.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "n alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 15.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "trae young",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 32.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "ra",
+    "line": 6.5,
+    "over_odds": -104,
+    "under_odds": -128
+  },
+  {
+    "player": "trae young",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "pa",
+    "line": 13.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 20.5,
+    "over_odds": -112,
+    "under_odds": -118
+  },
+  {
+    "player": "trae young",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 35.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "pa",
+    "line": 28.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 148,
+    "under_odds": -200
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 194,
+    "under_odds": -270
+  },
+  {
+    "player": "trae young",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -110,
+    "under_odds": -120
+  },
+  {
+    "player": "zaccharie risacher",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 118,
+    "under_odds": -158
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -174,
+    "under_odds": 130
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 108,
+    "under_odds": -144
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -158,
+    "under_odds": 118
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "gradey dick",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "bobby portis",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "kyle kuzma",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 30.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": -106,
+    "under_odds": -125
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "aj green",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -106,
+    "under_odds": -122
+  },
+  {
+    "player": "jakob poeltl",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "gary trent",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -132,
+    "under_odds": 100
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": -154,
+    "under_odds": 116
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -152,
+    "under_odds": 114
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 126,
+    "under_odds": -168
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -172,
+    "under_odds": 128
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": -144,
+    "under_odds": 108
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -158,
+    "under_odds": 118
+  },
+  {
+    "player": "gradey dick",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 122,
+    "under_odds": -162
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": 114,
+    "under_odds": -152
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -144,
+    "under_odds": 108
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 104,
+    "under_odds": -138
+  },
+  {
+    "player": "kyle kuzma",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -158,
+    "under_odds": 118
+  },
+  {
+    "player": "bobby portis",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -110,
+    "under_odds": -120
+  },
+  {
+    "player": "jakob poeltl",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": 104,
+    "under_odds": -138
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 116,
+    "under_odds": -154
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 11.5,
+    "over_odds": -138,
+    "under_odds": 104
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -154,
+    "under_odds": 116
+  },
+  {
+    "player": "kyle kuzma",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 20.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 43.5,
+    "over_odds": -112,
+    "under_odds": -118
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pra",
+    "line": 17.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 24.5,
+    "over_odds": -122,
+    "under_odds": -106
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pa",
+    "line": 14.5,
+    "over_odds": -112,
+    "under_odds": -118
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "pa",
+    "line": 22.5,
+    "over_odds": -118,
+    "under_odds": -112
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 24.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": 102,
+    "under_odds": -136
+  },
+  {
+    "player": "bobby portis",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 17.5,
+    "over_odds": -112,
+    "under_odds": -118
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": 100,
+    "under_odds": -132
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "g antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pra",
+    "line": 50.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": 110,
+    "under_odds": -146
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "pa",
+    "line": 21.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "ra",
+    "line": 18.5,
+    "over_odds": -132,
+    "under_odds": 100
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "pra",
+    "line": 27.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "pa",
+    "line": 22.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -102,
+    "under_odds": -130
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 23.5,
+    "over_odds": -118,
+    "under_odds": -112
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "pra",
+    "line": 26.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "pra",
+    "line": 28.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "jakob poeltl",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pa",
+    "line": 38.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "gradey dick",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": -118,
+    "under_odds": -112
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -148,
+    "under_odds": 114
+  },
+  {
+    "player": "aj green",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 118,
+    "under_odds": -158
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -138,
+    "under_odds": 104
+  },
+  {
+    "player": "gary trent",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "gradey dick",
+    "team": "Toronto Raptors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 108,
+    "under_odds": -144
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -160,
+    "under_odds": 120
+  },
+  {
+    "player": "neemias queta",
+    "team": "Boston Celtics",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -136,
+    "under_odds": 102
+  },
+  {
+    "player": "derrick white",
+    "team": "Boston Celtics",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": -132,
+    "under_odds": 100
+  },
+  {
+    "player": "anfernee simons",
+    "team": "Boston Celtics",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": -112,
+    "under_odds": -118
+  },
+  {
+    "player": "og anunoby",
+    "team": "New York Knicks",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "jaylen brown",
+    "team": "Boston Celtics",
+    "prop_type": "points",
+    "line": 23.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "karl-anthony towns",
+    "team": "New York Knicks",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -110,
+    "under_odds": -120
+  },
+  {
+    "player": "jalen brunson",
+    "team": "New York Knicks",
+    "prop_type": "points",
+    "line": 27.5,
+    "over_odds": -102,
+    "under_odds": -130
+  },
+  {
+    "player": "mikal bridges",
+    "team": "New York Knicks",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "sam hauser",
+    "team": "Boston Celtics",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -104,
+    "under_odds": -128
+  },
+  {
+    "player": "payton pritchard",
+    "team": "Boston Celtics",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -130,
+    "under_odds": -102
+  },
+  {
+    "player": "jaylen brown",
+    "team": "Boston Celtics",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": -104,
+    "under_odds": -128
+  },
+  {
+    "player": "anfernee simons",
+    "team": "Boston Celtics",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 112,
+    "under_odds": -148
+  },
+  {
+    "player": "jalen brunson",
+    "team": "New York Knicks",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": 102,
+    "under_odds": -136
+  },
+  {
+    "player": "derrick white",
+    "team": "Boston Celtics",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -118,
+    "under_odds": -110
+  },
+  {
+    "player": "mikal bridges",
+    "team": "New York Knicks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -154,
+    "under_odds": 116
+  },
+  {
+    "player": "payton pritchard",
+    "team": "Boston Celtics",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -158,
+    "under_odds": 118
+  },
+  {
+    "player": "derrick white",
+    "team": "Boston Celtics",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 110,
+    "under_odds": -146
+  },
+  {
+    "player": "neemias queta",
+    "team": "Boston Celtics",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -144,
+    "under_odds": 108
+  },
+  {
+    "player": "jaylen brown",
+    "team": "Boston Celtics",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -102,
+    "under_odds": -130
+  },
+  {
+    "player": "karl-anthony towns",
+    "team": "New York Knicks",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": -132,
+    "under_odds": 100
+  },
+  {
+    "player": "og anunoby",
+    "team": "New York Knicks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 120,
+    "under_odds": -160
+  },
+  {
+    "player": "mikal bridges",
+    "team": "New York Knicks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 104,
+    "under_odds": -138
+  },
+  {
+    "player": "sam hauser",
+    "team": "Boston Celtics",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 120,
+    "under_odds": -160
+  },
+  {
+    "player": "payton pritchard",
+    "team": "Boston Celtics",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -136,
+    "under_odds": 102
+  },
+  {
+    "player": "payton pritchard",
+    "team": "Boston Celtics",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -132,
+    "under_odds": 100
+  },
+  {
+    "player": "jaylen brown",
+    "team": "Boston Celtics",
+    "prop_type": "pa",
+    "line": 29.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "neemias queta",
+    "team": "Boston Celtics",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -102,
+    "under_odds": -130
+  },
+  {
+    "player": "payton pritchard",
+    "team": "Boston Celtics",
+    "prop_type": "pa",
+    "line": 20.5,
+    "over_odds": -106,
+    "under_odds": -125
+  },
+  {
+    "player": "derrick white",
+    "team": "Boston Celtics",
+    "prop_type": "pr",
+    "line": 24.5,
+    "over_odds": -118,
+    "under_odds": -112
+  },
+  {
+    "player": "payton pritchard",
+    "team": "Boston Celtics",
+    "prop_type": "pr",
+    "line": 21.5,
+    "over_odds": -102,
+    "under_odds": -130
+  },
+  {
+    "player": "jaylen brown",
+    "team": "Boston Celtics",
+    "prop_type": "pra",
+    "line": 36.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "anfernee simons",
+    "team": "Boston Celtics",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": 114,
+    "under_odds": -152
+  },
+  {
+    "player": "jaylen brown",
+    "team": "Boston Celtics",
+    "prop_type": "pr",
+    "line": 30.5,
+    "over_odds": -120,
+    "under_odds": -110
+  },
+  {
+    "player": "mikal bridges",
+    "team": "New York Knicks",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -106,
+    "under_odds": -125
+  },
+  {
+    "player": "anfernee simons",
+    "team": "Boston Celtics",
+    "prop_type": "pa",
+    "line": 18.5,
+    "over_odds": -128,
+    "under_odds": -104
+  },
+  {
+    "player": "jaylen brown",
+    "team": "Boston Celtics",
+    "prop_type": "ra",
+    "line": 11.5,
+    "over_odds": -144,
+    "under_odds": 108
+  },
+  {
+    "player": "jalen brunson",
+    "team": "New York Knicks",
+    "prop_type": "pa",
+    "line": 33.5,
+    "over_odds": -118,
+    "under_odds": -112
+  },
+  {
+    "player": "og anunoby",
+    "team": "New York Knicks",
+    "prop_type": "pr",
+    "line": 21.5,
+    "over_odds": -104,
+    "under_odds": -125
+  },
+  {
+    "player": "jalen brunson",
+    "team": "New York Knicks",
+    "prop_type": "pra",
+    "line": 37.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "karl-anthony towns",
+    "team": "New York Knicks",
+    "prop_type": "pra",
+    "line": 35.5,
+    "over_odds": -106,
+    "under_odds": -125
+  },
+  {
+    "player": "karl-anthony towns",
+    "team": "New York Knicks",
+    "prop_type": "pr",
+    "line": 32.5,
+    "over_odds": -110,
+    "under_odds": -120
+  },
+  {
+    "player": "jalen brunson",
+    "team": "New York Knicks",
+    "prop_type": "pr",
+    "line": 30.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "anfernee simons",
+    "team": "Boston Celtics",
+    "prop_type": "pra",
+    "line": 21.5,
+    "over_odds": -122,
+    "under_odds": -108
+  },
+  {
+    "player": "anfernee simons",
+    "team": "Boston Celtics",
+    "prop_type": "pr",
+    "line": 17.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "derrick white",
+    "team": "Boston Celtics",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -146,
+    "under_odds": 110
+  },
+  {
+    "player": "karl-anthony towns",
+    "team": "New York Knicks",
+    "prop_type": "ra",
+    "line": 13.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "derrick white",
+    "team": "Boston Celtics",
+    "prop_type": "pa",
+    "line": 24.5,
+    "over_odds": -128,
+    "under_odds": -104
+  },
+  {
+    "player": "derrick white",
+    "team": "Boston Celtics",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -110,
+    "under_odds": -120
+  },
+  {
+    "player": "karl-anthony towns",
+    "team": "New York Knicks",
+    "prop_type": "pa",
+    "line": 24.5,
+    "over_odds": -106,
+    "under_odds": -125
+  },
+  {
+    "player": "jalen brunson",
+    "team": "New York Knicks",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -128,
+    "under_odds": -104
+  },
+  {
+    "player": "mikal bridges",
+    "team": "New York Knicks",
+    "prop_type": "pra",
+    "line": 23.5,
+    "over_odds": -108,
+    "under_odds": -122
+  },
+  {
+    "player": "mikal bridges",
+    "team": "New York Knicks",
+    "prop_type": "pa",
+    "line": 19.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "sam hauser",
+    "team": "Boston Celtics",
+    "prop_type": "pra",
+    "line": 12.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "sam hauser",
+    "team": "Boston Celtics",
+    "prop_type": "pr",
+    "line": 10.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "payton pritchard",
+    "team": "Boston Celtics",
+    "prop_type": "pra",
+    "line": 25.5,
+    "over_odds": -104,
+    "under_odds": -128
+  },
+  {
+    "player": "sam hauser",
+    "team": "Boston Celtics",
+    "prop_type": "pa",
+    "line": 9.5,
+    "over_odds": -106,
+    "under_odds": -122
+  },
+  {
+    "player": "payton pritchard",
+    "team": "Boston Celtics",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -182,
+    "under_odds": 136
+  },
+  {
+    "player": "jaylen brown",
+    "team": "Boston Celtics",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -114,
+    "under_odds": -114
+  },
+  {
+    "player": "anfernee simons",
+    "team": "Boston Celtics",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 108,
+    "under_odds": -144
+  },
+  {
+    "player": "derrick white",
+    "team": "Boston Celtics",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": -138,
+    "under_odds": 104
+  },
+  {
+    "player": "jalen brunson",
+    "team": "New York Knicks",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 140,
+    "under_odds": -188
+  },
+  {
+    "player": "karl-anthony towns",
+    "team": "New York Knicks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -125,
+    "under_odds": -106
+  },
+  {
+    "player": "og anunoby",
+    "team": "New York Knicks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -168,
+    "under_odds": 126
+  },
+  {
+    "player": "mikal bridges",
+    "team": "New York Knicks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -166,
+    "under_odds": 124
+  },
+  {
+    "player": "sam hauser",
+    "team": "Boston Celtics",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -138,
+    "under_odds": 104
+  }
+]
