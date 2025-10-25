@@ -1,18 +1,21 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Search, TrendingUp, AlertCircle, Filter, DollarSign, BarChart3, Activity, ArrowUpDown, Clock, Zap, Star, RefreshCw } from 'lucide-react';
+import { Search, TrendingUp, AlertCircle, Filter, DollarSign, BarChart3, Activity, ArrowUpDown, Clock, Zap, Star, RefreshCw, CheckCircle } from 'lucide-react';
 
 const API_BASE = 'http://127.0.0.1:5000/api';
 
 const NBAPropsDashboard = () => {
-  const [activeTab, setActiveTab] = useState('all');
+  // MODIFIED: Set default tab to 'arbitrage'
+  const [activeTab, setActiveTab] = useState('arbitrage');
   // Start with an empty date
   const [selectedDate, setSelectedDate] = useState(''); 
   const [allProps, setAllProps] = useState([]);
   const [arbitrage, setArbitrage] = useState([]);
   const [discrepancies, setDiscrepancies] = useState([]);
   const [bestOdds, setBestOdds] = useState([]);
+  const [valueBets, setValueBets] = useState([]); 
   // Start loading as true since we're fetching the date
   const [loading, setLoading] = useState(true); 
+  const [isScraping, setIsScraping] = useState(false); // <-- NEW: State for full refresh
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedPropType, setSelectedPropType] = useState('all');
   const [sortBy, setSortBy] = useState('profit');
@@ -61,25 +64,26 @@ const NBAPropsDashboard = () => {
   }, [selectedDate]);
 
   useEffect(() => {
-    if (autoRefresh && selectedDate) {
+    // MODIFIED: Don't auto-refresh if a scrape is in progress
+    if (autoRefresh && selectedDate && !isScraping) {
       const interval = setInterval(fetchAllData, 60000); // Refresh every minute
       return () => clearInterval(interval);
     }
-  }, [autoRefresh, selectedDate]);
+  }, [autoRefresh, selectedDate, isScraping]);
 
   const fetchAllData = async () => {
     setLoading(true);
     setError(null); // Clear previous errors
     try {
-      const [propsRes, arbRes, discRes, oddsRes] = await Promise.all([
+      const [propsRes, arbRes, discRes, oddsRes, valueRes] = await Promise.all([
         fetch(`${API_BASE}/props/${selectedDate}`),
         fetch(`${API_BASE}/arbitrage/${selectedDate}`),
         fetch(`${API_BASE}/discrepancies/${selectedDate}`),
-        fetch(`${API_BASE}/best-odds/${selectedDate}`)
+        fetch(`${API_BASE}/best-odds/${selectedDate}`),
+        fetch(`${API_BASE}/value-bets/${selectedDate}`) 
       ]);
 
-      // Check for bad responses
-      if (!propsRes.ok || !arbRes.ok || !discRes.ok || !oddsRes.ok) {
+      if (!propsRes.ok || !arbRes.ok || !discRes.ok || !oddsRes.ok || !valueRes.ok) {
         throw new Error('One or more API endpoints failed');
       }
 
@@ -87,11 +91,13 @@ const NBAPropsDashboard = () => {
       const arbData = await arbRes.json();
       const discData = await discRes.json();
       const oddsData = await oddsRes.json();
+      const valueData = await valueRes.json(); 
 
       setAllProps(propsData);
       setArbitrage(arbData);
       setDiscrepancies(discData);
       setBestOdds(oddsData);
+      setValueBets(valueData); 
     } catch (error) {
       console.error('Error fetching data:', error);
       setError(`Failed to fetch prop data. (${error.message})`);
@@ -99,8 +105,52 @@ const NBAPropsDashboard = () => {
       setArbitrage([]);
       setDiscrepancies([]);
       setBestOdds([]);
+      setValueBets([]); 
     }
     setLoading(false);
+  };
+
+  // <-- NEW: Function to handle the full refresh process -->
+  const handleFullRefresh = async () => {
+    // Don't run if already loading or scraping
+    if (loading || isScraping) return; 
+
+    setIsScraping(true); // This will show "Scraping..."
+    setError(null);
+    if (autoRefresh) setAutoRefresh(false); // Pause auto-refresh
+
+    try {
+      // Step 1: Tell the backend to start scraping
+      const scrapeRes = await fetch(`${API_BASE}/trigger-scrape`, { 
+        method: 'POST' 
+      });
+      
+      if (!scrapeRes.ok) {
+        let errData = { error: 'Failed to start scraper process.' };
+        try {
+          errData = await scrapeRes.json();
+        } catch (e) {
+          // Keep default error
+        }
+        throw new Error(errData.error || 'Failed to start scraper process.');
+      }
+      
+      // Step 2: WAIT for scrapers to run.
+      // MODIFIED: Adjusted wait time to 32 seconds based on your test.
+      // (30s for scrapers + 2s buffer)
+      await new Promise(resolve => setTimeout(resolve, 32000)); 
+
+      // Step 3: Now fetch the new data.
+      // fetchAllData will set loading(true) -> "Loading..."
+      // and then loading(false) when done.
+      await fetchAllData(); 
+      
+    } catch (err) {
+      console.error('Full refresh failed:', err);
+      setError(err.message);
+    } finally {
+      setIsScraping(false); // Reset the "Scraping..." state
+    }
   };
 
   const toggleFavorite = (player, propType) => {
@@ -141,10 +191,26 @@ const NBAPropsDashboard = () => {
 
   // Filter and sort data
   const filteredData = useMemo(() => {
-    let data = activeTab === 'all' ? groupedProps :
-                activeTab === 'arbitrage' ? arbitrage :
-                activeTab === 'discrepancies' ? discrepancies :
-                bestOdds;
+    let data;
+    switch(activeTab) {
+      case 'all':
+        data = groupedProps;
+        break;
+      case 'arbitrage':
+        data = arbitrage;
+        break;
+      case 'value': 
+        data = valueBets;
+        break;
+      case 'discrepancies':
+        data = discrepancies;
+        break;
+      case 'best-odds':
+        data = bestOdds;
+        break;
+      default:
+        data = [];
+    }
 
     // Search filter
     if (searchQuery) {
@@ -175,6 +241,11 @@ const NBAPropsDashboard = () => {
         sortBy === 'profit' ? b.profit_percent - a.profit_percent :
         a.player.localeCompare(b.player)
       );
+    } else if (activeTab === 'value') { 
+      data = [...data].sort((a, b) => 
+        sortBy === 'profit' ? (b.edge_percent || 0) - (a.edge_percent || 0) : 
+        a.player.localeCompare(b.player)
+      );
     } else if (activeTab === 'best-odds') {
       data = [...data].sort((a, b) => 
         sortBy === 'profit' ? b.odds_difference - a.odds_difference :
@@ -188,13 +259,14 @@ const NBAPropsDashboard = () => {
     }
 
     return data;
-  }, [activeTab, groupedProps, arbitrage, discrepancies, bestOdds, searchQuery, selectedPropType, sortBy, showFavorites, favorites]);
+  }, [activeTab, groupedProps, arbitrage, discrepancies, bestOdds, valueBets, searchQuery, selectedPropType, sortBy, showFavorites, favorites]);
 
   const propTypes = useMemo(() => {
     const types = new Set();
     allProps.forEach(prop => types.add(prop.prop_type));
+    valueBets.forEach(prop => types.add(prop.prop_type));
     return ['all', ...Array.from(types).sort()];
-  }, [allProps]);
+  }, [allProps, valueBets]); 
 
   const formatOdds = (odds) => {
     if (odds === null || odds === undefined) return '-';
@@ -218,7 +290,6 @@ const NBAPropsDashboard = () => {
     return { stakeOver, stakeUnder, profit };
   };
 
-  // MODIFIED: Handle loading state while date is being fetched
   if (loading && !selectedDate) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 flex items-center justify-center">
@@ -255,13 +326,16 @@ const NBAPropsDashboard = () => {
                 onChange={(e) => setSelectedDate(e.target.value)}
                 className="bg-slate-800 border border-purple-500/30 rounded-lg px-4 py-2 text-sm focus:ring-2 focus:ring-purple-500 outline-none"
               />
+              {/* <-- MODIFIED: Refresh button --> */}
               <button
-                onClick={fetchAllData}
-                disabled={loading}
+                onClick={handleFullRefresh} // <-- Use new function
+                disabled={loading || isScraping} // <-- Disable if loading OR scraping
                 className="bg-purple-600 hover:bg-purple-700 px-4 py-2 rounded-lg flex items-center gap-2 transition-all disabled:opacity-50"
               >
-                {loading ? <RefreshCw className="w-4 h-4 animate-spin" /> : <RefreshCw className="w-4 h-4" />}
-                {loading ? 'Loading...' : 'Refresh'}
+                {/* <-- Show spinner if loading OR scraping --> */}
+                {(loading || isScraping) ? <RefreshCw className="w-4 h-4 animate-spin" /> : <RefreshCw className="w-4 h-4" />}
+                {/* <-- Show different text based on state --> */}
+                {isScraping ? 'Scraping...' : (loading ? 'Loading...' : 'Refresh')}
               </button>
               <button
                 onClick={() => setAutoRefresh(!autoRefresh)}
@@ -276,7 +350,7 @@ const NBAPropsDashboard = () => {
           </div>
 
           {/* Stats Bar */}
-          <div className="grid grid-cols-4 gap-4 mb-4">
+          <div className="grid grid-cols-5 gap-4 mb-4">
             <div className="bg-gradient-to-br from-green-500/20 to-green-600/20 border border-green-500/30 rounded-lg p-3">
               <div className="flex items-center justify-between">
                 <div>
@@ -284,6 +358,15 @@ const NBAPropsDashboard = () => {
                   <p className="text-2xl font-bold">{arbitrage.length}</p>
                 </div>
                 <Zap className="w-8 h-8 text-green-400" />
+              </div>
+            </div>
+            <div className="bg-gradient-to-br from-yellow-500/20 to-yellow-600/20 border border-yellow-500/30 rounded-lg p-3">
+              <div className="flex items-center justify-between">
+                <div>
+                  <p className="text-xs text-yellow-400 mb-1">Value Bets</p>
+                  <p className="text-2xl font-bold">{valueBets.length}</p>
+                </div>
+                <CheckCircle className="w-8 h-8 text-yellow-400" />
               </div>
             </div>
             <div className="bg-gradient-to-br from-orange-500/20 to-orange-600/20 border border-orange-500/30 rounded-lg p-3">
@@ -319,6 +402,7 @@ const NBAPropsDashboard = () => {
           <div className="flex items-center gap-2 overflow-x-auto pb-2">
             {[
               { id: 'arbitrage', label: 'Arbitrage', icon: Zap, color: 'green' },
+              { id: 'value', label: 'Value Bets', icon: CheckCircle, color: 'yellow' },
               { id: 'discrepancies', label: 'Line Mismatches', icon: TrendingUp, color: 'orange' },
               { id: 'best-odds', label: 'Best Odds', icon: DollarSign, color: 'blue' },
               { id: 'all', label: 'All Props', icon: BarChart3, color: 'purple' }
@@ -393,15 +477,14 @@ const NBAPropsDashboard = () => {
           </div>
         </div>
         
-        {/* NEW: Error Message Display */}
         {error && (
           <div className="bg-red-500/20 border border-red-500/30 rounded-lg p-4 text-center mb-4">
             <div className="flex items-center justify-center gap-3">
               <AlertCircle className="w-8 h-8 text-red-400" />
               <div>
-                <h3 className="text-xl font-semibold text-red-400">Connection Error</h3>
+                <h3 className="text-xl font-semibold text-red-400">Error</h3>
                 <p className="text-red-300">{error}</p>
-                <p className="text-red-300 text-sm">Please ensure your Python API server is running on `http://localhost:5000`</p>
+                <p className="text-red-300 text-sm">Please check the API console and ensure your scripts exist.</p>
               </div>
             </div>
           </div>
@@ -409,11 +492,17 @@ const NBAPropsDashboard = () => {
 
         {/* Content */}
         <div className="space-y-3">
-          {loading && filteredData.length === 0 ? (
+          {loading && filteredData.length === 0 && !isScraping ? (
              <div className="bg-slate-800/50 backdrop-blur-sm border border-purple-500/20 rounded-lg p-12 text-center">
               <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-purple-500 mx-auto mb-4"></div>
               <h3 className="text-xl font-semibold mb-2">Loading Prop Data...</h3>
               <p className="text-gray-400">Fetching data for {selectedDate}</p>
+            </div>
+          ) : isScraping ? (
+            <div className="bg-slate-800/50 backdrop-blur-sm border border-purple-500/20 rounded-lg p-12 text-center">
+              <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-purple-500 mx-auto mb-4"></div>
+              <h3 className="text-xl font-semibold mb-2">Scraping Live Data...</h3>
+              <p className="text-gray-400">This may take a moment. Please wait.</p>
             </div>
           ) : !loading && filteredData.length === 0 ? (
             <div className="bg-slate-800/50 backdrop-blur-sm border border-purple-500/20 rounded-lg p-12 text-center">
@@ -421,9 +510,83 @@ const NBAPropsDashboard = () => {
               <h3 className="text-xl font-semibold mb-2">No Results Found</h3>
               <p className="text-gray-400">Try adjusting your filters or search query.</p>
               <p className="text-gray-500 text-sm mt-2">
-                (Or, try running your scraper scripts to populate the database for {selectedDate})
+                (Click "Refresh" to scrape live data for {selectedDate})
               </p>
             </div>
+          ) : activeTab === 'value' ? (
+            // Value Bets View
+            filteredData.map((bet, idx) => (
+              <div key={idx} className="bg-gradient-to-br from-yellow-500/10 to-yellow-600/10 border-2 border-yellow-500/30 rounded-xl p-4 hover:border-yellow-500/50 transition-all">
+                <div className="flex items-start justify-between mb-3">
+                  <div className="flex-1">
+                    <div className="flex items-center gap-3 mb-2">
+                      <button
+                        onClick={() => toggleFavorite(bet.player, bet.prop_type)}
+                        className="text-yellow-400 hover:scale-110 transition-transform"
+                      >
+                        <Star className={`w-5 h-5 ${isFavorite(bet.player, bet.prop_type) ? 'fill-current' : ''}`} />
+                      </button>
+                      <h3 className="text-xl font-bold capitalize">{bet.player}</h3>
+                      <span className="bg-yellow-500/20 text-yellow-400 px-3 py-1 rounded-full text-xs font-semibold">
+                        {bet.prop_type.toUpperCase()}
+                      </span>
+                    </div>
+                    <p className="text-sm text-gray-400 mb-1">{bet.game}</p>
+                    <p className="text-xs text-gray-500">{bet.team}</p>
+                  </div>
+                  <div className="text-right">
+                    <div className="flex items-center gap-2 mb-1">
+                      <CheckCircle className="w-5 h-5 text-yellow-400" />
+                      <span className="text-2xl font-bold text-yellow-400">
+                        +{(bet.edge_percent || 0).toFixed(2)}%
+                      </span>
+                    </div>
+                    <p className="text-xs text-gray-400">Value Edge</p>
+                  </div>
+                </div>
+
+                <div className="grid grid-cols-2 gap-4">
+                  <div className="bg-slate-900/50 rounded-lg p-3 border border-purple-500/20 text-center">
+                    <p className="text-xs text-gray-400 mb-1">Bet</p>
+                    <p className="text-2xl font-bold text-white capitalize">
+                      {bet.recommended_side} {bet.line}
+                    </p>
+                    <p className="text-xs font-semibold text-purple-400 capitalize">{bet.best_book}</p>
+                  </div>
+                  <div className="bg-slate-900/50 rounded-lg p-3 border border-purple-500/20 text-center">
+                    <p className="text-xs text-gray-400 mb-1">Best Odds</p>
+                    <p className={`text-2xl font-bold ${getOddsColor(bet.best_odds)}`}>
+                      {formatOdds(bet.best_odds)}
+                    </p>
+                    <p className="text-xs text-gray-500"> </p>
+                  </div>
+                </div>
+
+                {bet.all_odds && (
+                  <div className="mt-4 pt-3 border-t border-yellow-500/20">
+                    <p className="text-xs text-yellow-300 mb-2">
+                      <strong>Reason:</strong> {bet.reasoning}
+                    </p>
+                    <div className="grid grid-cols-2 gap-2 text-xs">
+                      <div className="bg-slate-900/50 rounded p-2 text-center">
+                        <p className="font-semibold text-purple-400">DraftKings</p>
+                        <div className="flex justify-around mt-1">
+                          <span className={getOddsColor(bet.all_odds.dk_over)}>O: {formatOdds(bet.all_odds.dk_over)}</span>
+                          <span className={getOddsColor(bet.all_odds.dk_under)}>U: {formatOdds(bet.all_odds.dk_under)}</span>
+                        </div>
+                      </div>
+                      <div className="bg-slate-900/50 rounded p-2 text-center">
+                        <p className="font-semibold text-blue-400">FanDuel</p>
+                        <div className="flex justify-around mt-1">
+                          <span className={getOddsColor(bet.all_odds.fd_over)}>O: {formatOdds(bet.all_odds.fd_over)}</span>
+                          <span className={getOddsColor(bet.all_odds.fd_under)}>U: {formatOdds(bet.all_odds.fd_under)}</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            ))
           ) : activeTab === 'arbitrage' ? (
             // Arbitrage View
             filteredData.map((arb, idx) => {
@@ -758,12 +921,19 @@ const NBAPropsDashboard = () => {
         {/* Legend */}
         <div className="mt-4 bg-slate-800/30 backdrop-blur-sm border border-purple-500/10 rounded-lg p-4">
           <h4 className="text-sm font-semibold text-gray-400 mb-3">Legend & Tips</h4>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-3 text-xs">
             <div className="flex items-start gap-2">
               <Zap className="w-4 h-4 text-green-400 flex-shrink-0 mt-0.5" />
               <div>
                 <p className="text-green-400 font-semibold">Arbitrage</p>
                 <p className="text-gray-400">Guaranteed profit by betting both sides across different books</p>
+              </div>
+            </div>
+            <div className="flex items-start gap-2">
+              <CheckCircle className="w-4 h-4 text-yellow-400 flex-shrink-0 mt-0.5" />
+              <div>
+                <p className="text-yellow-400 font-semibold">Value Bet (EV+)</p>
+                <p className="text-gray-400">A bet where the odds are better than the "fair" probability suggests</p>
               </div>
             </div>
             <div className="flex items-start gap-2">
@@ -794,3 +964,4 @@ const NBAPropsDashboard = () => {
 };
 
 export default NBAPropsDashboard;
+

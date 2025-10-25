@@ -104,6 +104,120 @@ def calculate_ev(odds, true_probability):
     ev = (prob * (decimal_odds - 1)) - ((1 - prob) * 1)
     return round(ev * 100, 2)  # Return as percentage
 
+# Add these helper functions near the top with other helpers
+
+def calculate_implied_probability(american_odds):
+    """Calculate implied probability from American odds"""
+    if american_odds > 0:
+        return 100 / (american_odds + 100) * 100
+    else:
+        return abs(american_odds) / (abs(american_odds) + 100) * 100
+
+def calculate_vig_free_probability(over_odds, under_odds):
+    """
+    Remove the bookmaker's edge (vig) to get true probabilities.
+    Returns (over_prob, under_prob) as percentages.
+    """
+    over_implied = calculate_implied_probability(over_odds)
+    under_implied = calculate_implied_probability(under_odds)
+    
+    total_implied = over_implied + under_implied
+    
+    # Remove vig by normalizing to 100%
+    over_true = (over_implied / total_implied) * 100
+    under_true = (under_implied / total_implied) * 100
+    
+    return over_true, under_true
+
+def find_value_bets(over_odds, under_odds, threshold=2.0):
+    """
+    Identify if there's betting value based on market inefficiency.
+    
+    Returns: dict with 'side', 'edge_percent', 'confidence' or None
+    """
+    # Get vig-free probabilities
+    over_prob, under_prob = calculate_vig_free_probability(over_odds, under_odds)
+    
+    # Calculate the "gap" - how far the market is from 50/50
+    market_confidence = abs(50 - over_prob)
+    
+    # Look for market disagreements (good value indicators):
+    # 1. When over odds are positive but under odds aren't heavily negative
+    # 2. When there's a probability gap suggesting mispricing
+    
+    edge = None
+    
+    # Over value: Over is + odds (underdog) but not extreme
+    if over_odds > 0 and over_odds < 200 and under_odds > -200:
+        edge_percent = 50 - over_prob  # How much "free" edge we're getting
+        if edge_percent > threshold:
+            edge = {
+                'side': 'over',
+                'edge_percent': edge_percent,
+                'confidence': 'medium',
+                'reasoning': f'Market undervaluing over (+{over_odds})'
+            }
+    
+    # Under value: Under is close to even or small favorite
+    elif under_odds > -130 and under_odds < 0 and over_odds > 100:
+        edge_percent = 50 - under_prob
+        if edge_percent > threshold:
+            edge = {
+                'side': 'under', 
+                'edge_percent': edge_percent,
+                'confidence': 'medium',
+                'reasoning': f'Market undervaluing under ({under_odds})'
+            }
+    
+    # High confidence: Big odds discrepancy between books (line shopping edge)
+    # This will be enhanced when we compare across books
+    
+    return edge
+
+def calculate_sharp_indicators(dk_over, dk_under, fd_over, fd_under):
+    """
+    Identify 'sharp' money indicators - where smart money might be.
+    Returns dict with sharp indicators or None.
+    """
+    indicators = []
+    
+    # Indicator 1: Odds moving against public perception
+    # If one book has significantly different odds, it might indicate sharp action
+    over_diff = abs(dk_over - fd_over) if dk_over and fd_over else 0
+    under_diff = abs(dk_under - fd_under) if dk_under and fd_under else 0
+    
+    if over_diff > 30:  # More than 30 points difference
+        better_over = 'DK' if dk_over > fd_over else 'FD'
+        indicators.append({
+            'type': 'odds_movement',
+            'side': 'over',
+            'book': better_over,
+            'strength': 'strong' if over_diff > 50 else 'medium',
+            'note': f'{over_diff} point difference suggests sharp action'
+        })
+    
+    if under_diff > 30:
+        better_under = 'DK' if dk_under > fd_under else 'FD'
+        indicators.append({
+            'type': 'odds_movement',
+            'side': 'under',
+            'book': better_under,
+            'strength': 'strong' if under_diff > 50 else 'medium',
+            'note': f'{under_diff} point difference suggests sharp action'
+        })
+    
+    # Indicator 2: Plus money on both sides (rare, indicates uncertainty)
+    if dk_over and fd_over and dk_under and fd_under:
+        if (dk_over > 0 or fd_over > 0) and (dk_under > 0 or fd_under > 0):
+            indicators.append({
+                'type': 'market_uncertainty',
+                'side': 'both',
+                'strength': 'high',
+                'note': 'Market is very uncertain - potential value opportunity'
+            })
+    
+    return indicators if indicators else None
+
 class PropsDatabase:
     def __init__(self, db_path="props_data/props.db"):
         # Ensure directory exists
@@ -532,9 +646,112 @@ class PropsDatabase:
         
         return sorted(best_odds, key=lambda x: x['odds_difference'], reverse=True)
     
+    def find_value_bets(self, game_date, min_edge=2.0, min_odds_diff=20):
+        """
+        Find props with potential betting value based on:
+        1. Market inefficiencies
+        2. Sharp money indicators
+        3. Odds discrepancies between books
+        """
+        cursor = self.conn.cursor()
+        
+        cursor.execute('''
+            WITH prop_comparison AS (
+                SELECT 
+                    player,
+                    prop_type,
+                    line,
+                    MAX(CASE WHEN LOWER(sportsbook) = 'draftkings' THEN over_odds END) as dk_over,
+                    MAX(CASE WHEN LOWER(sportsbook) = 'draftkings' THEN under_odds END) as dk_under,
+                    MAX(CASE WHEN LOWER(sportsbook) = 'fanduel' THEN over_odds END) as fd_over,
+                    MAX(CASE WHEN LOWER(sportsbook) = 'fanduel' THEN under_odds END) as fd_under,
+                    MAX(game) as game,
+                    MAX(team) as team
+                FROM player_props
+                WHERE game_date = ?
+                GROUP BY player, prop_type, line
+                HAVING COUNT(DISTINCT sportsbook) > 1
+            )
+            SELECT *
+            FROM prop_comparison
+            WHERE (ABS(dk_over - fd_over) >= ? OR ABS(dk_under - fd_under) >= ?)
+            OR (dk_over > 0 AND fd_over > 0)
+            OR (dk_under > 0 AND fd_under > 0)
+        ''', (game_date, min_odds_diff, min_odds_diff))
+        
+        columns = [description[0] for description in cursor.description]
+        results = cursor.fetchall()
+        props = [dict(zip(columns, row)) for row in results]
+        
+        value_bets = []
+        
+        for prop in props:
+            # Use the best odds from each book
+            best_over_odds = max([o for o in [prop['dk_over'], prop['fd_over']] if o]) if prop['dk_over'] or prop['fd_over'] else None
+            best_under_odds = max([o for o in [prop['dk_under'], prop['fd_under']] if o]) if prop['dk_under'] or prop['fd_under'] else None
+            
+            if not best_over_odds or not best_under_odds:
+                continue
+            
+            # Check for value on the over
+            value = find_value_bets(best_over_odds, best_under_odds, threshold=min_edge)
+            
+            # Check for sharp indicators
+            sharp = calculate_sharp_indicators(
+                prop['dk_over'], prop['dk_under'],
+                prop['fd_over'], prop['fd_under']
+            )
+            
+            if value or sharp:
+                # Determine which book to use
+                if value and value['side'] == 'over':
+                    best_book = 'DraftKings' if prop['dk_over'] and (not prop['fd_over'] or prop['dk_over'] > prop['fd_over']) else 'FanDuel'
+                    best_odds = prop['dk_over'] if best_book == 'DraftKings' else prop['fd_over']
+                elif value and value['side'] == 'under':
+                    best_book = 'DraftKings' if prop['dk_under'] and (not prop['fd_under'] or prop['dk_under'] > prop['fd_under']) else 'FanDuel'
+                    best_odds = prop['dk_under'] if best_book == 'DraftKings' else prop['fd_under']
+                else:
+                    # Sharp indicator but no clear value side - pick the side with bigger odds discrepancy
+                    over_diff = abs(prop['dk_over'] - prop['fd_over']) if prop['dk_over'] and prop['fd_over'] else 0
+                    under_diff = abs(prop['dk_under'] - prop['fd_under']) if prop['dk_under'] and prop['fd_under'] else 0
+                    
+                    if over_diff > under_diff:
+                        best_book = 'DraftKings' if prop['dk_over'] > prop['fd_over'] else 'FanDuel'
+                        best_odds = max(prop['dk_over'], prop['fd_over'])
+                        value = {'side': 'over', 'edge_percent': over_diff / 10, 'confidence': 'low', 'reasoning': 'Odds discrepancy'}
+                    else:
+                        best_book = 'DraftKings' if prop['dk_under'] > prop['fd_under'] else 'FanDuel'
+                        best_odds = max(prop['dk_under'], prop['fd_under'])
+                        value = {'side': 'under', 'edge_percent': under_diff / 10, 'confidence': 'low', 'reasoning': 'Odds discrepancy'}
+                
+                value_bet = {
+                    'player': prop['player'],
+                    'prop_type': prop['prop_type'],
+                    'line': prop['line'],
+                    'game': prop['game'],
+                    'team': prop['team'],
+                    'recommended_side': value['side'] if value else 'over',
+                    'best_book': best_book,
+                    'best_odds': best_odds,
+                    'edge_percent': value['edge_percent'] if value else 0,
+                    'confidence': value['confidence'] if value else 'low',
+                    'reasoning': value['reasoning'] if value else 'Market discrepancy',
+                    'sharp_indicators': sharp,
+                    'all_odds': {
+                        'dk_over': prop['dk_over'],
+                        'dk_under': prop['dk_under'],
+                        'fd_over': prop['fd_over'],
+                        'fd_under': prop['fd_under']
+                    }
+                }
+                
+                value_bets.append(value_bet)
+        
+        # Sort by edge percentage (highest edge first)
+        return sorted(value_bets, key=lambda x: x['edge_percent'], reverse=True)
+        
     def close(self):
         self.conn.close()
-
 
 class PropsManager:
     def __init__(self, base_folder="props_data", use_db=True):
@@ -631,6 +848,12 @@ class PropsManager:
         """Get all props for comparison"""
         if self.use_db:
             return self.db.get_all_props_for_comparison(game_date)
+        return []
+    
+    def find_value_bets(self, game_date, min_edge=2.0):
+        """Find value betting opportunities"""
+        if self.use_db:
+            return self.db.find_value_bets(game_date, min_edge=min_edge)
         return []
     
     def close(self):

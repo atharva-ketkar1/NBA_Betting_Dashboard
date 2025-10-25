@@ -102,6 +102,13 @@ def trigger_scrape():
         traceback.print_exc()
         return jsonify({"error": f"Failed to start scraper process: {str(e)}"}), 500
 
+@app.route('/api/value-bets/<date>')
+def get_value_bets(date):
+    manager = PropsManager(base_folder="props_data", use_db=True)
+    value_bets = manager.find_value_bets(date, min_edge=1.5)
+    manager.close()
+    return jsonify(value_bets)
+
 if __name__ == '__main__':
     # Use host='0.0.0.0' to make it accessible on your network if needed
     # Use debug=False for production deployment
