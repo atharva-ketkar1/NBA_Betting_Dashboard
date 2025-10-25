@@ -7,7 +7,7 @@ import re
 from collections import defaultdict
 from datetime import datetime
 from dateutil import tz
-from props_manager import PropsManager  # Add this import
+from props_manager import PropsManager
 
 # --- CONFIGURATION ---
 REGION_CODE = "dkusoh"
@@ -28,28 +28,45 @@ PLAYER_PROP_CATEGORIES = {
 }
 
 # --- SESSION SETUP ---
-session = requests.Session()
-session.headers.update({
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-    "Referer": "https://sportsbook.draftkings.com/",
-    "Origin": "https://sportsbook.draftkings.com",
-    "Accept": "*/*",
-})
+def create_fresh_session():
+    """Create a new session with fresh headers to avoid caching"""
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "Referer": "https://sportsbook.draftkings.com/",
+        "Origin": "https://sportsbook.draftkings.com",
+        "Accept": "*/*",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "0",
+    })
+    return session
 
 # --- FETCH PROP DATA ---
-def fetch_props(subcategory_id, prop_name):
+def fetch_props(session, subcategory_id, prop_name):
+    # Add timestamp to bust any caching
+    timestamp = int(time.time() * 1000)
+    
     url = (
         f"https://sportsbook-nash.draftkings.com/sites/US-OH-SB/api/sportscontent/controldata/"
         f"league/leagueSubcategory/v1/markets?isBatchable=false&templateVars={LEAGUE_ID}%2C{subcategory_id}"
         f"&eventsQuery=%24filter%3DleagueId%20eq%20%27{LEAGUE_ID}%27%20AND%20clientMetadata%2FSubcategories%2Fany%28s%3A%20s%2FId%20eq%20%27{subcategory_id}%27%29"
         f"&marketsQuery=%24filter%3DclientMetadata%2FsubCategoryId%20eq%20%27{subcategory_id}%27%20AND%20tags%2Fall%28t%3A%20t%20ne%20%27SportcastBetBuilder%27%29&include=Events&entity=events"
+        f"&_={timestamp}"
     )
     print(f"Fetching '{prop_name}' props...")
     try:
         response = session.get(url, timeout=30)
         response.raise_for_status()
         data = response.json()
-        print(f"  ✅ '{prop_name}' data received successfully.")
+        
+        # Check for actual market data
+        markets = data.get('markets', [])
+        selections = data.get('selections', [])
+        
+        print(f"  ✅ '{prop_name}' data received - {len(markets)} markets, {len(selections)} selections")
+        print(f"  ⏰ Fetched at: {datetime.now().strftime('%H:%M:%S')}")
+        
         return data
     except requests.exceptions.RequestException as e:
         print(f"  ❌ Error fetching '{prop_name}': {e}")
@@ -98,21 +115,14 @@ def parse_props(data, prop_type_name):
         
         if start_event_date_str:
             try:
-                # Handle 'Z' for isoformat compatibility
                 if start_event_date_str.endswith('Z'):
                     start_event_date_str = start_event_date_str[:-1] + '+00:00'
                 
-                # Parse the UTC timestamp
                 utc_time = datetime.fromisoformat(start_event_date_str)
-                
-                # Convert to local time (e.g., Eastern)
                 eastern_tz = tz.gettz('America/New_York')
                 local_time = utc_time.astimezone(eastern_tz)
-                
-                # Get the date from the *local* time
                 game_date = local_time.strftime('%Y-%m-%d')
             except ValueError:
-                # Fallback just in case parsing fails
                 game_date = start_event_date_str.split('T')[0]
         else:
             game_date = datetime.today().strftime('%Y-%m-%d')
@@ -134,20 +144,44 @@ def parse_props(data, prop_type_name):
 # --- MAIN EXECUTION ---
 def run_nba_scraper():
     all_props = []
-    print("\n--- Starting NBA Player Prop Scraping (DraftKings) ---")
+    scrape_start = datetime.now()
+    
+    print("\n" + "="*80)
+    print("🏀 DRAFTKINGS NBA PROP SCRAPER")
+    print(f"Started: {scrape_start.strftime('%Y-%m-%d %H:%M:%S')}")
+    print("="*80 + "\n")
+    
+    # Create fresh session for each run
+    session = create_fresh_session()
     
     for prop_name, sub_id in PLAYER_PROP_CATEGORIES.items():
-        data = fetch_props(sub_id, prop_name)
+        data = fetch_props(session, sub_id, prop_name)
         props = parse_props(data, prop_name)
         all_props.extend(props)
-        time.sleep(random.uniform(1.5, 3.0))
+        
+        # Random delay between requests
+        delay = random.uniform(1.5, 3.0)
+        time.sleep(delay)
 
-    # Use PropsManager instead of direct file writing
-    manager = PropsManager(base_folder="props_data", use_db=True)
-    manager.save_props(all_props, "draftkings")
-    manager.close()
-    
-    print("\n✅ NBA DraftKings prop scraping complete!")
+    print(f"\n{'='*80}")
+    print(f"SCRAPED {len(all_props)} TOTAL PROPS")
+    print(f"{'='*80}\n")
+
+    if all_props:
+        # Use PropsManager to save
+        print("Saving to database and JSON files...")
+        manager = PropsManager(base_folder="props_data", use_db=True)
+        manager.save_props(all_props, "draftkings")
+        manager.close()
+        
+        scrape_end = datetime.now()
+        duration = (scrape_end - scrape_start).total_seconds()
+        
+        print(f"\n✅ DraftKings scraping complete!")
+        print(f"   Duration: {duration:.1f} seconds")
+        print(f"   Props saved: {len(all_props)}")
+    else:
+        print("\n⚠️  No props were scraped!")
 
 if __name__ == "__main__":
     run_nba_scraper()

@@ -149,13 +149,42 @@ class PropsDatabase:
         self.conn.commit()
     
     def insert_props(self, props_list, sportsbook):
-        """Insert or update props in the database"""
+        """
+        Delete all props for the given sportsbook and game_dates, 
+        then insert the new props list.
+        """
+        if not props_list:
+            print(f"  No props provided for {sportsbook}. Nothing to insert.")
+            return 0, 0
+            
         cursor = self.conn.cursor()
         scrape_time = datetime.now().isoformat()
         
-        inserted = 0
-        updated = 0
+        # --- NEW: Clear stale data first ---
+        # Get all unique game dates from the props list
+        game_dates_in_batch = set(p.get('game_date') for p in props_list if p.get('game_date'))
         
+        deleted = 0
+        if game_dates_in_batch:
+            print(f"  Clearing stale props for {sportsbook} on dates: {', '.join(game_dates_in_batch)}...")
+            try:
+                # Use a tuple for the IN clause
+                placeholders = ','.join('?' for _ in game_dates_in_batch)
+                query = f"DELETE FROM player_props WHERE sportsbook = ? AND game_date IN ({placeholders})"
+                
+                # Prepare arguments
+                args = [sportsbook] + list(game_dates_in_batch)
+                
+                cursor.execute(query, args)
+                deleted = cursor.rowcount
+            except sqlite3.Error as e:
+                print(f"  Error deleting props: {e}")
+                
+            if deleted > 0:
+                print(f"  ...removed {deleted} stale props.")
+        # --- END NEW ---
+
+        inserted = 0
         for prop in props_list:
             try:
                 # Clean odds values before inserting
@@ -178,17 +207,14 @@ class PropsDatabase:
                     except (ValueError, TypeError):
                         print(f"Warning: Invalid under_odds '{under_odds}' for {prop.get('player')} - skipping")
                         continue
-                
+
+                # --- MODIFIED: Use a simple INSERT ---
+                # We no longer need ON CONFLICT because we deleted all old data
                 cursor.execute('''
                     INSERT INTO player_props 
                     (player, team, prop_type, line, over_odds, under_odds, 
                     sportsbook, game_date, game, scrape_timestamp)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                    ON CONFLICT(player, prop_type, line, sportsbook, game_date) 
-                    DO UPDATE SET
-                        over_odds = excluded.over_odds,
-                        under_odds = excluded.under_odds,
-                        scrape_timestamp = excluded.scrape_timestamp
                 ''', (
                     prop.get('player'),
                     prop.get('team'),
@@ -202,18 +228,20 @@ class PropsDatabase:
                     scrape_time
                 ))
                 
-                if cursor.rowcount == 1:
-                    inserted += 1
-                else:
-                    updated += 1
+                inserted += 1
                     
             except sqlite3.Error as e:
-                print(f"Error inserting prop: {e}")
+                # Handle UNIQUE constraint error just in case, e.g., duplicate in scrape
+                if "UNIQUE constraint" in str(e):
+                    print(f"  Warning: Duplicate prop found in scrape batch for {prop.get('player')}. Skipping.")
+                else:
+                    print(f"  Error inserting prop: {e}")
                 continue
         
         self.conn.commit()
-        print(f"  📊 Database: Inserted {inserted} new props, updated {updated} existing props")
-        return inserted, updated
+        # --- MODIFIED: Updated print message ---
+        print(f"  📊 Database: Inserted {inserted} new props for {sportsbook}.")
+        return inserted, 0  # Return (inserted, updated) - updated is now 0
     
     def get_props_for_date(self, game_date, sportsbook=None):
         """Retrieve all props for a specific date"""

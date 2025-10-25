@@ -9,9 +9,13 @@ from dateutil import tz
 def get_nba_main_page_data():
     """Fetches the main NBA page and returns the raw data needed for parsing."""
     url = "https://api.sportsbook.fanduel.com/sbapi/content-managed-page?page=CUSTOM&customPageId=nba&pbHorizontal=false&_ak=FhMFpcPWXMeyZxOx&timezone=America%2FNew_York"
+    # In scrape_fanduel.py - update all headers
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
-        'x-sportsbook-region': 'OH' # You can change this to your region if needed
+        'x-sportsbook-region': 'OH',
+        'Cache-Control': 'no-cache, no-store, must-revalidate',  # Add this
+        'Pragma': 'no-cache',  # Add this
+        'Expires': '0'  # Add this
     }
     try:
         # Add a timeout to the request
@@ -29,9 +33,13 @@ def get_all_available_tabs(event_id):
     """
     cache_buster = int(time.time())
     url = f"https://api.sportsbook.fanduel.com/sbapi/event-page?_ak=FhMFpcPWXMeyZxOx&eventId={event_id}&_={cache_buster}"
+    # In scrape_fanduel.py - update all headers
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
-        'x-sportsbook-region': 'OH'
+        'x-sportsbook-region': 'OH',
+        'Cache-Control': 'no-cache, no-store, must-revalidate',  # Add this
+        'Pragma': 'no-cache',  # Add this
+        'Expires': '0'  # Add this
     }
     try:
         # Add a timeout to the request
@@ -72,9 +80,13 @@ def get_player_props(event_id, prop_tab_name):
     cache_buster = int(time.time())
     # Use the string name (e.g., 'player-points') as the 'tab' parameter
     url = f"https://api.sportsbook.fanduel.com/sbapi/event-page?_ak=FhMFpcPWXMeyZxOx&eventId={event_id}&tab={prop_tab_name}&_={cache_buster}"
+    # In scrape_fanduel.py - update all headers
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
-        'x-sportsbook-region': 'OH'
+        'x-sportsbook-region': 'OH',
+        'Cache-Control': 'no-cache, no-store, must-revalidate',  # Add this
+        'Pragma': 'no-cache',  # Add this
+        'Expires': '0'  # Add this
     }
     try:
         # --- MODIFICATION: Added print statement and timeout ---
