@@ -1,0 +1,4602 @@
+[
+  {
+    "player": "terrence shannon",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "naz reid",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -115,
+    "under_odds": -113,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "julius randle",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": -104,
+    "under_odds": -120,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "points",
+    "line": 31.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jake laravia",
+    "team": "Los Angeles Lakers",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "points",
+    "line": 27.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rudy gobert",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donte divincenzo",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "austin reaves",
+    "team": "Los Angeles Lakers",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deandre ayton",
+    "team": "Los Angeles Lakers",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jaden mcdaniels",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rui hachimura",
+    "team": "Los Angeles Lakers",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "gabe vincent",
+    "team": "Los Angeles Lakers",
+    "prop_type": "points",
+    "line": 6.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "marcus smart",
+    "team": "Los Angeles Lakers",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donte divincenzo",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": 124,
+    "under_odds": -160,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "assists",
+    "line": 8.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "austin reaves",
+    "team": "Los Angeles Lakers",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": -140,
+    "under_odds": 110,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "julius randle",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "marcus smart",
+    "team": "Los Angeles Lakers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -154,
+    "under_odds": 120,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rudy gobert",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "austin reaves",
+    "team": "Los Angeles Lakers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "naz reid",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -162,
+    "under_odds": 126,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "julius randle",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deandre ayton",
+    "team": "Los Angeles Lakers",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donte divincenzo",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jaden mcdaniels",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rui hachimura",
+    "team": "Los Angeles Lakers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jake laravia",
+    "team": "Los Angeles Lakers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rudy gobert",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pr",
+    "line": 20.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deandre ayton",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pra",
+    "line": 23.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donte divincenzo",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pa",
+    "line": 32.5,
+    "over_odds": -128,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pr",
+    "line": 33.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "ra",
+    "line": 17.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deandre ayton",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pr",
+    "line": 22.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rui hachimura",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pr",
+    "line": 17.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pa",
+    "line": 40.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": -140,
+    "under_odds": 110,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pra",
+    "line": 38.5,
+    "over_odds": -120,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "marcus smart",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pa",
+    "line": 10.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "julius randle",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pra",
+    "line": 49.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "austin reaves",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "austin reaves",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pa",
+    "line": 27.5,
+    "over_odds": -128,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pr",
+    "line": 40.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "julius randle",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jake laravia",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pr",
+    "line": 8.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "austin reaves",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pra",
+    "line": 32.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "austin reaves",
+    "team": "Los Angeles Lakers",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "julius randle",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "ra",
+    "line": 11.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "julius randle",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pra",
+    "line": 30.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donte divincenzo",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rui hachimura",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donte divincenzo",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "naz reid",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jaden mcdaniels",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pr",
+    "line": 17.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donte divincenzo",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pa",
+    "line": 14.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "naz reid",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -142,
+    "under_odds": 112,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jaden mcdaniels",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 138,
+    "under_odds": -178,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "austin reaves",
+    "team": "Los Angeles Lakers",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donte divincenzo",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 122,
+    "under_odds": -156,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rui hachimura",
+    "team": "Los Angeles Lakers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -172,
+    "under_odds": 134,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "gabe vincent",
+    "team": "Los Angeles Lakers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "julius randle",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "marcus smart",
+    "team": "Los Angeles Lakers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 164,
+    "under_odds": -215,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rudy gobert",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": 138,
+    "under_odds": -186,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "luka doncic",
+    "team": "Los Angeles Lakers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 100,
+    "under_odds": -132,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jaden mcdaniels",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "moses moody",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donovan clingan",
+    "team": "Portland Trail Blazers",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": -128,
+    "under_odds": -102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 22.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "buddy hield",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kris murray",
+    "team": "Portland Trail Blazers",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "toumani camara",
+    "team": "Portland Trail Blazers",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deni avdija",
+    "team": "Portland Trail Blazers",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jerami grant",
+    "team": "Portland Trail Blazers",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -142,
+    "under_odds": 112,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": 122,
+    "under_odds": -154,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deni avdija",
+    "team": "Portland Trail Blazers",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -142,
+    "under_odds": 112,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -160,
+    "under_odds": 124,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jerami grant",
+    "team": "Portland Trail Blazers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 136,
+    "under_odds": -174,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "toumani camara",
+    "team": "Portland Trail Blazers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kris murray",
+    "team": "Portland Trail Blazers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 142,
+    "under_odds": -186,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donovan clingan",
+    "team": "Portland Trail Blazers",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": 110,
+    "under_odds": -140,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deni avdija",
+    "team": "Portland Trail Blazers",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 22.5,
+    "over_odds": -128,
+    "under_odds": -104,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 32.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 28.5,
+    "over_odds": -115,
+    "under_odds": -113,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deni avdija",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 27.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": -140,
+    "under_odds": 110,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 25.5,
+    "over_odds": -113,
+    "under_odds": -115,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kris murray",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 8.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 28.5,
+    "over_odds": -106,
+    "under_odds": -122,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 19.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 13.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 23.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deni avdija",
+    "team": "Portland Trail Blazers",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jerami grant",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pa",
+    "line": 18.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 17.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deni avdija",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pa",
+    "line": 24.5,
+    "over_odds": -128,
+    "under_odds": -102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -120,
+    "under_odds": -110,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 22.5,
+    "over_odds": -115,
+    "under_odds": -113,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donovan clingan",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 17.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "toumani camara",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 19.5,
+    "over_odds": -128,
+    "under_odds": -104,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pra",
+    "line": 27.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deni avdija",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pra",
+    "line": 32.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pra",
+    "line": 23.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 27.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "buddy hield",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 4.5,
+    "over_odds": 120,
+    "under_odds": -154,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 128,
+    "under_odds": -162,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 130,
+    "under_odds": -166,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -164,
+    "under_odds": 128,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 176,
+    "under_odds": -235,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deni avdija",
+    "team": "Portland Trail Blazers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "toumani camara",
+    "team": "Portland Trail Blazers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 108,
+    "under_odds": -138,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jerami grant",
+    "team": "Portland Trail Blazers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 108,
+    "under_odds": -144,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donovan clingan",
+    "team": "Portland Trail Blazers",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": -158,
+    "under_odds": 118,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "toumani camara",
+    "team": "Portland Trail Blazers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 116,
+    "under_odds": -158,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jrue holiday",
+    "team": "Portland Trail Blazers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "points",
+    "line": 26.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cam whitmore",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "tre johnson",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "khris middleton",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dangelo russell",
+    "team": "Dallas Mavericks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "max christie",
+    "team": "Dallas Mavericks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dereck lively",
+    "team": "Dallas Mavericks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "klay thompson",
+    "team": "Dallas Mavericks",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "carlton carrington",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "marvin bagley",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "corey kispert",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "pj washington",
+    "team": "Dallas Mavericks",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cj mccollum",
+    "team": "Washington Wizards",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "naji marshall",
+    "team": "Dallas Mavericks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cj mccollum",
+    "team": "Washington Wizards",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -136,
+    "under_odds": 106,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dangelo russell",
+    "team": "Dallas Mavericks",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 124,
+    "under_odds": -160,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "pj washington",
+    "team": "Dallas Mavericks",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": 116,
+    "under_odds": -148,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "carlton carrington",
+    "team": "Washington Wizards",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -166,
+    "under_odds": 130,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "khris middleton",
+    "team": "Washington Wizards",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -154,
+    "under_odds": 120,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "max christie",
+    "team": "Dallas Mavericks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "khris middleton",
+    "team": "Washington Wizards",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "klay thompson",
+    "team": "Dallas Mavericks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "naji marshall",
+    "team": "Dallas Mavericks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cam whitmore",
+    "team": "Washington Wizards",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 134,
+    "under_odds": -172,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 130,
+    "under_odds": -166,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "rebounds",
+    "line": 11.5,
+    "over_odds": 116,
+    "under_odds": -148,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "pj washington",
+    "team": "Dallas Mavericks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "carlton carrington",
+    "team": "Washington Wizards",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 120,
+    "under_odds": -154,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "marvin bagley",
+    "team": "Washington Wizards",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dereck lively",
+    "team": "Dallas Mavericks",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cj mccollum",
+    "team": "Washington Wizards",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "tre johnson",
+    "team": "Washington Wizards",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 118,
+    "under_odds": -150,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "khris middleton",
+    "team": "Washington Wizards",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "khris middleton",
+    "team": "Washington Wizards",
+    "prop_type": "pra",
+    "line": 22.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "ra",
+    "line": 14.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "klay thompson",
+    "team": "Dallas Mavericks",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "khris middleton",
+    "team": "Washington Wizards",
+    "prop_type": "pa",
+    "line": 17.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "khris middleton",
+    "team": "Washington Wizards",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "naji marshall",
+    "team": "Dallas Mavericks",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cam whitmore",
+    "team": "Washington Wizards",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "pj washington",
+    "team": "Dallas Mavericks",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dangelo russell",
+    "team": "Dallas Mavericks",
+    "prop_type": "pa",
+    "line": 14.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "pj washington",
+    "team": "Dallas Mavericks",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "max christie",
+    "team": "Dallas Mavericks",
+    "prop_type": "pr",
+    "line": 10.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "pa",
+    "line": 20.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "pa",
+    "line": 30.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "pra",
+    "line": 27.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dereck lively",
+    "team": "Dallas Mavericks",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "tre johnson",
+    "team": "Washington Wizards",
+    "prop_type": "pa",
+    "line": 12.5,
+    "over_odds": -104,
+    "under_odds": -128,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "pr",
+    "line": 24.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "tre johnson",
+    "team": "Washington Wizards",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "pra",
+    "line": 22.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "marvin bagley",
+    "team": "Washington Wizards",
+    "prop_type": "pr",
+    "line": 9.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "tre johnson",
+    "team": "Washington Wizards",
+    "prop_type": "pra",
+    "line": 15.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cj mccollum",
+    "team": "Washington Wizards",
+    "prop_type": "pr",
+    "line": 20.5,
+    "over_odds": -115,
+    "under_odds": -108,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cj mccollum",
+    "team": "Washington Wizards",
+    "prop_type": "pa",
+    "line": 20.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "pa",
+    "line": 15.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "carlton carrington",
+    "team": "Washington Wizards",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "carlton carrington",
+    "team": "Washington Wizards",
+    "prop_type": "pa",
+    "line": 13.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "carlton carrington",
+    "team": "Washington Wizards",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "carlton carrington",
+    "team": "Washington Wizards",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dereck lively",
+    "team": "Dallas Mavericks",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "pr",
+    "line": 37.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "pra",
+    "line": 41.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "pa",
+    "line": 14.5,
+    "over_odds": 100,
+    "under_odds": -132,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "pj washington",
+    "team": "Dallas Mavericks",
+    "prop_type": "pra",
+    "line": 22.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "pra",
+    "line": 19.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "pj washington",
+    "team": "Dallas Mavericks",
+    "prop_type": "pa",
+    "line": 16.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cj mccollum",
+    "team": "Washington Wizards",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cj mccollum",
+    "team": "Washington Wizards",
+    "prop_type": "pra",
+    "line": 24.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "klay thompson",
+    "team": "Dallas Mavericks",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cj mccollum",
+    "team": "Washington Wizards",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 122,
+    "under_odds": -156,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "max christie",
+    "team": "Dallas Mavericks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 128,
+    "under_odds": -164,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "tre johnson",
+    "team": "Washington Wizards",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "khris middleton",
+    "team": "Washington Wizards",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 132,
+    "under_odds": -170,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "corey kispert",
+    "team": "Washington Wizards",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 124,
+    "under_odds": -158,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cam whitmore",
+    "team": "Washington Wizards",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 132,
+    "under_odds": -170,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dangelo russell",
+    "team": "Dallas Mavericks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "pj washington",
+    "team": "Dallas Mavericks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "carlton carrington",
+    "team": "Washington Wizards",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 164,
+    "under_odds": -215,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 154,
+    "under_odds": -205,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 164,
+    "under_odds": -215,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": -138,
+    "under_odds": 104,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": -174,
+    "under_odds": 130,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony davis",
+    "team": "Dallas Mavericks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 148,
+    "under_odds": -200,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dereck lively",
+    "team": "Dallas Mavericks",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": 148,
+    "under_odds": -200,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyshawn george",
+    "team": "Washington Wizards",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 178,
+    "under_odds": -245,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "alexandre sarr",
+    "team": "Washington Wizards",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": 158,
+    "under_odds": -215,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "cooper flagg",
+    "team": "Dallas Mavericks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Washington Wizards @ Dallas Mavericks",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "demar derozan",
+    "team": "Sacramento Kings",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -113,
+    "under_odds": -115,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "svi mykhailiuk",
+    "team": "Utah Jazz",
+    "prop_type": "points",
+    "line": 6.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ace bailey",
+    "team": "Utah Jazz",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "russell westbrook",
+    "team": "Denver Nuggets",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "drew eubanks",
+    "team": "Sacramento Kings",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "domantas sabonis",
+    "team": "Sacramento Kings",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "zach lavine",
+    "team": "Sacramento Kings",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "lauri markkanen",
+    "team": "Utah Jazz",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brice sensabaugh",
+    "team": "Utah Jazz",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jusuf nurkic",
+    "team": "Utah Jazz",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dennis schroder",
+    "team": "Sacramento Kings",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyle filipowski",
+    "team": "Utah Jazz",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "walker kessler",
+    "team": "Utah Jazz",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keyonte george",
+    "team": "Utah Jazz",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keon ellis",
+    "team": "Sacramento Kings",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "zach lavine",
+    "team": "Sacramento Kings",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "demar derozan",
+    "team": "Sacramento Kings",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "lauri markkanen",
+    "team": "Utah Jazz",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": -162,
+    "under_odds": 126,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "russell westbrook",
+    "team": "Denver Nuggets",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -158,
+    "under_odds": 124,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyle filipowski",
+    "team": "Utah Jazz",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": 118,
+    "under_odds": -150,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -154,
+    "under_odds": 120,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "domantas sabonis",
+    "team": "Sacramento Kings",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dennis schroder",
+    "team": "Sacramento Kings",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -148,
+    "under_odds": 116,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keyonte george",
+    "team": "Utah Jazz",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ace bailey",
+    "team": "Utah Jazz",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 120,
+    "under_odds": -154,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keyonte george",
+    "team": "Utah Jazz",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "walker kessler",
+    "team": "Utah Jazz",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": -102,
+    "under_odds": -128,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "lauri markkanen",
+    "team": "Utah Jazz",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brice sensabaugh",
+    "team": "Utah Jazz",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 118,
+    "under_odds": -150,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jusuf nurkic",
+    "team": "Utah Jazz",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "drew eubanks",
+    "team": "Sacramento Kings",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "zach lavine",
+    "team": "Sacramento Kings",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dennis schroder",
+    "team": "Sacramento Kings",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "demar derozan",
+    "team": "Sacramento Kings",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "domantas sabonis",
+    "team": "Sacramento Kings",
+    "prop_type": "rebounds",
+    "line": 12.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyle filipowski",
+    "team": "Utah Jazz",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "russell westbrook",
+    "team": "Denver Nuggets",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "zach lavine",
+    "team": "Sacramento Kings",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ace bailey",
+    "team": "Utah Jazz",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "demar derozan",
+    "team": "Sacramento Kings",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "demar derozan",
+    "team": "Sacramento Kings",
+    "prop_type": "pa",
+    "line": 26.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "zach lavine",
+    "team": "Sacramento Kings",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "demar derozan",
+    "team": "Sacramento Kings",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "lauri markkanen",
+    "team": "Utah Jazz",
+    "prop_type": "pr",
+    "line": 27.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "russell westbrook",
+    "team": "Denver Nuggets",
+    "prop_type": "pa",
+    "line": 12.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "lauri markkanen",
+    "team": "Utah Jazz",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "lauri markkanen",
+    "team": "Utah Jazz",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "walker kessler",
+    "team": "Utah Jazz",
+    "prop_type": "pra",
+    "line": 23.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyle filipowski",
+    "team": "Utah Jazz",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "drew eubanks",
+    "team": "Sacramento Kings",
+    "prop_type": "pr",
+    "line": 9.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dennis schroder",
+    "team": "Sacramento Kings",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dennis schroder",
+    "team": "Sacramento Kings",
+    "prop_type": "pa",
+    "line": 16.5,
+    "over_odds": -104,
+    "under_odds": -128,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "walker kessler",
+    "team": "Utah Jazz",
+    "prop_type": "pr",
+    "line": 21.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "domantas sabonis",
+    "team": "Sacramento Kings",
+    "prop_type": "pa",
+    "line": 22.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "domantas sabonis",
+    "team": "Sacramento Kings",
+    "prop_type": "pra",
+    "line": 35.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "zach lavine",
+    "team": "Sacramento Kings",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "domantas sabonis",
+    "team": "Sacramento Kings",
+    "prop_type": "pr",
+    "line": 30.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "domantas sabonis",
+    "team": "Sacramento Kings",
+    "prop_type": "ra",
+    "line": 17.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keyonte george",
+    "team": "Utah Jazz",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brice sensabaugh",
+    "team": "Utah Jazz",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keyonte george",
+    "team": "Utah Jazz",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dennis schroder",
+    "team": "Sacramento Kings",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dennis schroder",
+    "team": "Sacramento Kings",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "svi mykhailiuk",
+    "team": "Utah Jazz",
+    "prop_type": "pra",
+    "line": 10.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyle filipowski",
+    "team": "Utah Jazz",
+    "prop_type": "pa",
+    "line": 13.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "lauri markkanen",
+    "team": "Utah Jazz",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "pa",
+    "line": 17.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "pra",
+    "line": 21.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "russell westbrook",
+    "team": "Denver Nuggets",
+    "prop_type": "pra",
+    "line": 15.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "russell westbrook",
+    "team": "Denver Nuggets",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jusuf nurkic",
+    "team": "Utah Jazz",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keyonte george",
+    "team": "Utah Jazz",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -104,
+    "under_odds": -128,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "russell westbrook",
+    "team": "Denver Nuggets",
+    "prop_type": "ra",
+    "line": 6.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keyonte george",
+    "team": "Utah Jazz",
+    "prop_type": "pra",
+    "line": 26.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "pr",
+    "line": 17.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "svi mykhailiuk",
+    "team": "Utah Jazz",
+    "prop_type": "pa",
+    "line": 8.5,
+    "over_odds": -136,
+    "under_odds": 102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyle filipowski",
+    "team": "Utah Jazz",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "zach lavine",
+    "team": "Sacramento Kings",
+    "prop_type": "pa",
+    "line": 25.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "demar derozan",
+    "team": "Sacramento Kings",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyle filipowski",
+    "team": "Utah Jazz",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "zach lavine",
+    "team": "Sacramento Kings",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 140,
+    "under_odds": -180,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keyonte george",
+    "team": "Utah Jazz",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brice sensabaugh",
+    "team": "Utah Jazz",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kyle filipowski",
+    "team": "Utah Jazz",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 140,
+    "under_odds": -180,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "lauri markkanen",
+    "team": "Utah Jazz",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 124,
+    "under_odds": -160,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ace bailey",
+    "team": "Utah Jazz",
+    "prop_type": "threes",
+    "line": 0.5,
+    "over_odds": -215,
+    "under_odds": 164,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -166,
+    "under_odds": 130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "demar derozan",
+    "team": "Sacramento Kings",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -210,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "svi mykhailiuk",
+    "team": "Utah Jazz",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dennis schroder",
+    "team": "Sacramento Kings",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keon ellis",
+    "team": "Sacramento Kings",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 130,
+    "under_odds": -166,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "keon ellis",
+    "team": "Sacramento Kings",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "walker kessler",
+    "team": "Utah Jazz",
+    "prop_type": "blocks",
+    "line": 2.5,
+    "over_odds": 116,
+    "under_odds": -154,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "john collins",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "derrick jones",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brook lopez",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "chris paul",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "mark williams",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -104,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 26.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dillon brooks",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ryan dunn",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 8.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "chris paul",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -136,
+    "under_odds": 106,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 118,
+    "under_odds": -150,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 120,
+    "under_odds": -154,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 108,
+    "under_odds": -138,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": 124,
+    "under_odds": -160,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "mark williams",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "derrick jones",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dillon brooks",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 130,
+    "under_odds": -166,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brook lopez",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -148,
+    "under_odds": 116,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "john collins",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ryan dunn",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "john collins",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pra",
+    "line": 34.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "chris paul",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 9.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "derrick jones",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 10.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "mark williams",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 27.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pra",
+    "line": 30.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 29.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "ra",
+    "line": 13.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brook lopez",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 10.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 16.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pra",
+    "line": 27.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 30.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "pra",
+    "line": 20.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 24.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "pa",
+    "line": 11.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 16.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pra",
+    "line": 19.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "pa",
+    "line": 16.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "ra",
+    "line": 6.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "ra",
+    "line": 11.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": 110,
+    "under_odds": -140,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "pra",
+    "line": 38.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "pa",
+    "line": 34.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dillon brooks",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 24.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ryan dunn",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -156,
+    "under_odds": 122,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "john collins",
+    "team": "Los Angeles Clippers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 176,
+    "under_odds": -230,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "chris paul",
+    "team": "Los Angeles Clippers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 172,
+    "under_odds": -225,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 140,
+    "under_odds": -180,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "dillon brooks",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -184,
+    "under_odds": 142,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 148,
+    "under_odds": -194,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "brook lopez",
+    "team": "Los Angeles Clippers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 176,
+    "under_odds": -230,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ryan dunn",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 150,
+    "under_odds": -194,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "kawhi leonard",
+    "team": "Los Angeles Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 108,
+    "under_odds": -144,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deandre ayton",
+    "team": "Los Angeles Lakers",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deandre ayton",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pra",
+    "line": 24.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pa",
+    "line": 33.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pr",
+    "line": 34.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "deandre ayton",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pr",
+    "line": 23.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "rui hachimura",
+    "team": "Los Angeles Lakers",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "anthony edwards",
+    "team": "Minnesota Timberwolves",
+    "prop_type": "pra",
+    "line": 39.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Minnesota Timberwolves @ Los Angeles Lakers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "moses moody",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 11.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 24.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "donovan clingan",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "shaedon sharpe",
+    "team": "Portland Trail Blazers",
+    "prop_type": "pra",
+    "line": 28.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Golden State Warriors @ Portland Trail Blazers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "malik monk",
+    "team": "Sacramento Kings",
+    "prop_type": "pa",
+    "line": 18.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Utah Jazz @ Sacramento Kings",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -150,
+    "under_odds": 118,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 15.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  },
+  {
+    "player": "bradley beal",
+    "team": "Los Angeles Clippers",
+    "prop_type": "ra",
+    "line": 5.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Los Angeles Clippers",
+    "game_date": "2025-10-24"
+  }
+]
