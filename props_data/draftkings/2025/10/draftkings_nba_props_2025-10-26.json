@@ -1,0 +1,5932 @@
+[
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 30.5,
+    "over_odds": "−119",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony edwards",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 28.5,
+    "over_odds": "−116",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 27.5,
+    "over_odds": "−109",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 26.5,
+    "over_odds": "−115",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 25.5,
+    "over_odds": "−122",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 25.5,
+    "over_odds": "−115",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 25.5,
+    "over_odds": "−111",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "pascal siakam",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 22.5,
+    "over_odds": "−124",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 22.5,
+    "over_odds": "−118",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 22.5,
+    "over_odds": "−118",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 22.5,
+    "over_odds": "−107",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": "−120",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": "−117",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "norman powell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": "−102",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": "−117",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "julius randle",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": "−107",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deni avdija",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": "−125",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "shaedon sharpe",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": "−118",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": "−123",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": "−112",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": "−105",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": "−120",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": "−113",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": "−121",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deandre ayton",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": "−115",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": "−107",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": "−105",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rui hachimura",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": "−101",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−121",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kyshawn george",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−111",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jerami grant",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−102",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "obi toppin",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−125",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "de'andre hunter",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−120",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "khris middleton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−118",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−114",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−113",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "john collins",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−113",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−102",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarrett allen",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "tre johnson",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−117",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaden mcdaniels",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aaron nesmith",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−113",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−111",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dennis schroder",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−106",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donte divincenzo",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−102",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naz reid",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−101",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bobby portis",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−122",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "klay thompson",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−120",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−115",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarace walker",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cam whitmore",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−104",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "sam merrill",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−131",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaime jaquez jr.",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−123",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kel'el ware",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−109",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−106",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "carlton carrington",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−101",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rudy gobert",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−101",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "marcus smart",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−130",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−126",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "nikola jovic",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−117",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "josh hart",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−113",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−109",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ben sheppard",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−106",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "+104",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gabe vincent",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−132",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jake laravia",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−125",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "derrick jones jr.",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−120",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "corey kispert",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naji marshall",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−111",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan clingan",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−108",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gradey dick",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−108",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "max christie",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dereck lively ii",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": "−101",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jamal shead",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": "−107",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "−133",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr. three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "+101",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "+103",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony edwards three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "+110",
+    "under_odds": "−142",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves three pointers made o/u",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "+126",
+    "under_odds": "−164",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine three pointers made o/u",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "+127",
+    "under_odds": "−165",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "sam merrill three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−147",
+    "under_odds": "+113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden three pointers made o/u",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−142",
+    "under_odds": "+110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donte divincenzo three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−139",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "norman powell three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−138",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "klay thompson three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+101",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+117",
+    "under_odds": "−152",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rui hachimura three pointers made o/u",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+121",
+    "under_odds": "−157",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "shaedon sharpe three pointers made o/u",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+122",
+    "under_odds": "−159",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+123",
+    "under_odds": "−160",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kyshawn george three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+128",
+    "under_odds": "−167",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+129",
+    "under_odds": "−169",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+133",
+    "under_odds": "−174",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "tre johnson three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+140",
+    "under_odds": "−182",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gabe vincent three pointers made o/u",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+148",
+    "under_odds": "−194",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "de'andre hunter three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−194",
+    "under_odds": "+148",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deni avdija three pointers made o/u",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−191",
+    "under_odds": "+146",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kon knueppel three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−175",
+    "under_odds": "+135",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard three pointers made o/u",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−174",
+    "under_odds": "+133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−171",
+    "under_odds": "+131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−163",
+    "under_odds": "+125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday three pointers made o/u",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−155",
+    "under_odds": "+119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "myles turner three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−149",
+    "under_odds": "+115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aaron nesmith three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−148",
+    "under_odds": "+114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "julius randle three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−144",
+    "under_odds": "+111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarace walker three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−142",
+    "under_odds": "+109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "obi toppin three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−141",
+    "under_odds": "+109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan rollins three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−138",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara three pointers made o/u",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−135",
+    "under_odds": "+104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−132",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−130",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "nikola jovic three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ben sheppard three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "carlton carrington three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "khris middleton three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dennis schroder three pointers made o/u",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naz reid three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+104",
+    "under_odds": "−134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "collin sexton three pointers made o/u",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+112",
+    "under_odds": "−146",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+112",
+    "under_odds": "−145",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+113",
+    "under_odds": "−147",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bobby portis three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+121",
+    "under_odds": "−157",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "pascal siakam three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+125",
+    "under_odds": "−162",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gradey dick three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+128",
+    "under_odds": "−167",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+146",
+    "under_odds": "−191",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo three pointers made o/u",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+147",
+    "under_odds": "−193",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaden mcdaniels three pointers made o/u",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+159",
+    "under_odds": "−208",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan three pointers made o/u",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "threes made",
+    "line": 0.5,
+    "over_odds": "−211",
+    "under_odds": "+161",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 0.5,
+    "over_odds": "−209",
+    "under_odds": "+160",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes three pointers made o/u",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "threes made",
+    "line": 0.5,
+    "over_odds": "−195",
+    "under_odds": "+149",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis three pointers made o/u",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "threes made",
+    "line": 0.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo three pointers made o/u",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "threes made",
+    "line": 0.5,
+    "over_odds": "+138",
+    "under_odds": "−180",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds",
+    "line": 13.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 12.5,
+    "over_odds": "+100",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 11.5,
+    "over_odds": "+106",
+    "under_odds": "−137",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": "−140",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": "−103",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deandre ayton",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": "+107",
+    "under_odds": "−139",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rudy gobert",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": "−101",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": "+107",
+    "under_odds": "−139",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan clingan",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": "+108",
+    "under_odds": "−140",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarrett allen",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": "+108",
+    "under_odds": "−140",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": "+106",
+    "under_odds": "−137",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": "+113",
+    "under_odds": "−146",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kel'el ware",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "−139",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "josh hart",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "+100",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "+103",
+    "under_odds": "−134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bobby portis",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "+107",
+    "under_odds": "−139",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deni avdija",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "+115",
+    "under_odds": "−149",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "julius randle",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "−147",
+    "under_odds": "+113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kyshawn george",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "pascal siakam",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "+107",
+    "under_odds": "−139",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "+112",
+    "under_odds": "−146",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "john collins",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "+119",
+    "under_odds": "−154",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−142",
+    "under_odds": "+110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dereck lively ii",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−141",
+    "under_odds": "+109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−130",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony edwards",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naz reid",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+100",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+102",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "obi toppin",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+104",
+    "under_odds": "−135",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+106",
+    "under_odds": "−137",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rui hachimura",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+107",
+    "under_odds": "−139",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarace walker",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+109",
+    "under_odds": "−141",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaime jaquez jr.",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−158",
+    "under_odds": "+121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−139",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "khris middleton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−127",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaden mcdaniels",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aaron nesmith",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+105",
+    "under_odds": "−136",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+116",
+    "under_odds": "−150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "carlton carrington",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+119",
+    "under_odds": "−154",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "nikola jovic",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+121",
+    "under_odds": "−157",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+125",
+    "under_odds": "−162",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ben sheppard",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+127",
+    "under_odds": "−165",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "shaedon sharpe",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+127",
+    "under_odds": "−165",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cam whitmore",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−155",
+    "under_odds": "+119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−145",
+    "under_odds": "+112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−142",
+    "under_odds": "+110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "de'andre hunter",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−141",
+    "under_odds": "+109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−139",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−139",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donte divincenzo",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naji marshall",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+116",
+    "under_odds": "−150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "tre johnson",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+120",
+    "under_odds": "−157",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "norman powell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−175",
+    "under_odds": "+134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−165",
+    "under_odds": "+127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "max christie",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−157",
+    "under_odds": "+121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−154",
+    "under_odds": "+118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "sam merrill",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−151",
+    "under_odds": "+116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dennis schroder",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−130",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "klay thompson",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "+125",
+    "under_odds": "−162",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "+145",
+    "under_odds": "−189",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "assists",
+    "line": 8.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "assists",
+    "line": 8.5,
+    "over_odds": "+101",
+    "under_odds": "−131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": "−138",
+    "under_odds": "+106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": "+110",
+    "under_odds": "−143",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": "−136",
+    "under_odds": "+105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": "−131",
+    "under_odds": "+101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": "−149",
+    "under_odds": "+115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony edwards",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−162",
+    "under_odds": "+125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−150",
+    "under_odds": "+115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "julius randle",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−136",
+    "under_odds": "+105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−130",
+    "under_odds": "+101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "pascal siakam",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deni avdija",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dennis schroder",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "+106",
+    "under_odds": "−138",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "josh hart",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "+106",
+    "under_odds": "−137",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "carlton carrington",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "+118",
+    "under_odds": "−154",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "+119",
+    "under_odds": "−154",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−155",
+    "under_odds": "+119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−150",
+    "under_odds": "+116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−149",
+    "under_odds": "+115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "khris middleton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−148",
+    "under_odds": "+114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−146",
+    "under_odds": "+112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "marcus smart",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−143",
+    "under_odds": "+111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−140",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donte divincenzo",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−133",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−130",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+116",
+    "under_odds": "−151",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarace walker",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+117",
+    "under_odds": "−152",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kyshawn george",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+117",
+    "under_odds": "−152",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+120",
+    "under_odds": "−156",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gabe vincent",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+130",
+    "under_odds": "−169",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaime jaquez jr.",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+133",
+    "under_odds": "−173",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−174",
+    "under_odds": "+134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "obi toppin",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−164",
+    "under_odds": "+126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naji marshall",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−142",
+    "under_odds": "+110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−141",
+    "under_odds": "+109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−139",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "nikola jovic",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−129",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "sam merrill",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ben sheppard",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "shaedon sharpe",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "tre johnson",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "+101",
+    "under_odds": "−131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "+109",
+    "under_odds": "−141",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dereck lively ii",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "+125",
+    "under_odds": "−163",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarrett allen",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "+135",
+    "under_odds": "−176",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "+147",
+    "under_odds": "−193",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "−151",
+    "under_odds": "+117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "−145",
+    "under_odds": "+112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "de'andre hunter",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "−140",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−115",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds + assists",
+    "line": 18.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 15.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 14.5,
+    "over_odds": "+102",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds + assists",
+    "line": 13.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds + assists",
+    "line": 13.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 13.5,
+    "over_odds": "+107",
+    "under_odds": "−139",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds + assists",
+    "line": 12.5,
+    "over_odds": "−137",
+    "under_odds": "+106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds + assists",
+    "line": 12.5,
+    "over_odds": "−135",
+    "under_odds": "+104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 12.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "julius randle",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "−136",
+    "under_odds": "+105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "−129",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "josh hart",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarrett allen",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "−105",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "pascal siakam",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "+101",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony edwards",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "+101",
+    "under_odds": "−131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "+102",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "+105",
+    "under_odds": "−137",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kyshawn george",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "+109",
+    "under_odds": "−142",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−135",
+    "under_odds": "+104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−132",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "+101",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−140",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "khris middleton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−135",
+    "under_odds": "+104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarace walker",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "carlton carrington",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "obi toppin",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dereck lively ii",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−101",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "+101",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−129",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−129",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donte divincenzo",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dennis schroder",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "+110",
+    "under_odds": "−142",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−140",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−137",
+    "under_odds": "+105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ben sheppard",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−136",
+    "under_odds": "+105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "shaedon sharpe",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naji marshall",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−101",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "de'andre hunter",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 5.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "tre johnson",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "rebounds + assists",
+    "line": 5.5,
+    "over_odds": "−122",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "sam merrill",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 5.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 4.5,
+    "over_odds": "−143",
+    "under_odds": "+110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "rebounds + assists",
+    "line": 4.5,
+    "over_odds": "−102",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 50.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 41.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds + assists",
+    "line": 40.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony edwards",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds + assists",
+    "line": 39.5,
+    "over_odds": "−115",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds + assists",
+    "line": 38.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 37.5,
+    "over_odds": "−117",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds + assists",
+    "line": 37.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 36.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 35.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 35.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "pascal siakam",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds + assists",
+    "line": 34.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds + assists",
+    "line": 32.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "julius randle",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds + assists",
+    "line": 32.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 32.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 32.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 31.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds + assists",
+    "line": 31.5,
+    "over_odds": "−105",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 30.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 29.5,
+    "over_odds": "−116",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds + assists",
+    "line": 29.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 27.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 27.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 26.5,
+    "over_odds": "−124",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "shaedon sharpe",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 26.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 26.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "norman powell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 26.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kyshawn george",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds + assists",
+    "line": 25.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds + assists",
+    "line": 25.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarrett allen",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 24.5,
+    "over_odds": "−127",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "khris middleton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds + assists",
+    "line": 23.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds + assists",
+    "line": 23.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 23.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 23.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "obi toppin",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds + assists",
+    "line": 23.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 22.5,
+    "over_odds": "−125",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 22.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 22.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "josh hart",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 21.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 21.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 21.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "de'andre hunter",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 20.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 20.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarace walker",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds + assists",
+    "line": 20.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donte divincenzo",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dennis schroder",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kel'el ware",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaime jaquez jr.",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "carlton carrington",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds + assists",
+    "line": 18.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "tre johnson",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds + assists",
+    "line": 18.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 18.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "sam merrill",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 16.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "nikola jovic",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds + assists",
+    "line": 16.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ben sheppard",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds + assists",
+    "line": 16.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "klay thompson",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 16.5,
+    "over_odds": "−103",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dereck lively ii",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 15.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naji marshall",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 15.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds + assists",
+    "line": 13.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "max christie",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds + assists",
+    "line": 13.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 43.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 37.5,
+    "over_odds": "−106",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony edwards",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 34.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 33.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds",
+    "line": 32.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds",
+    "line": 32.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 31.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 30.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "pascal siakam",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 29.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 28.5,
+    "over_odds": "−122",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 28.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 28.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 28.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 27.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 27.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "julius randle",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 27.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deandre ayton",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds",
+    "line": 27.5,
+    "over_odds": "−105",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds",
+    "line": 26.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 26.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds",
+    "line": 26.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 24.5,
+    "over_odds": "−125",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 24.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "norman powell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 24.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "shaedon sharpe",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 23.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 23.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarrett allen",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 22.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 22.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kyshawn george",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 22.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rui hachimura",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds",
+    "line": 21.5,
+    "over_odds": "−115",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 21.5,
+    "over_odds": "−107",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "john collins",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−119",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−118",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "obi toppin",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rudy gobert",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "khris middleton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 19.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 19.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bobby portis",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 19.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−125",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "de'andre hunter",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kel'el ware",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan clingan",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 17.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naz reid",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 17.5,
+    "over_odds": "−115",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaden mcdaniels",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 17.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 17.5,
+    "over_odds": "−103",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "josh hart",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 17.5,
+    "over_odds": "−103",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aaron nesmith",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarace walker",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−115",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "tre johnson",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaime jaquez jr.",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−130",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donte divincenzo",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cam whitmore",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dennis schroder",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−103",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "carlton carrington",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + rebounds",
+    "line": 14.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "klay thompson",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 14.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "sam merrill",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−129",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "nikola jovic",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ben sheppard",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−115",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dereck lively ii",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naji marshall",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 12.5,
+    "over_odds": "−102",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + rebounds",
+    "line": 11.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + rebounds",
+    "line": 11.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "max christie",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + rebounds",
+    "line": 11.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 38.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + assists",
+    "line": 34.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony edwards",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + assists",
+    "line": 33.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 33.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 33.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 32.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 30.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 29.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "pascal siakam",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + assists",
+    "line": 27.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + assists",
+    "line": 27.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 26.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + assists",
+    "line": 25.5,
+    "over_odds": "−119",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "julius randle",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + assists",
+    "line": 25.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 25.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 24.5,
+    "over_odds": "−124",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 24.5,
+    "over_odds": "−117",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + assists",
+    "line": 23.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 22.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 22.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 22.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "shaedon sharpe",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 22.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 22.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 21.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 21.5,
+    "over_odds": "−103",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 20.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 20.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kyshawn george",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "khris middleton",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "obi toppin",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 17.5,
+    "over_odds": "−125",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 17.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dennis schroder",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−120",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "de'andre hunter",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−105",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donte divincenzo",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarrett allen",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 15.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 15.5,
+    "over_odds": "−110",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "tre johnson",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 15.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarace walker",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + assists",
+    "line": 14.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 14.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "carlton carrington",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "points + assists",
+    "line": 14.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jaime jaquez jr.",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 13.5,
+    "over_odds": "−130",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "josh hart",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 13.5,
+    "over_odds": "−129",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "sam merrill",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 13.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 12.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "nikola jovic",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "points + assists",
+    "line": 12.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ben sheppard",
+    "game": "IND Pacers @ MIN Timberwolves",
+    "prop_type": "points + assists",
+    "line": 12.5,
+    "over_odds": "−101",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "naji marshall",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 11.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 11.5,
+    "over_odds": "−101",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dereck lively ii",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "points + assists",
+    "line": 9.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "−103",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+102",
+    "under_odds": "−135",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+105",
+    "under_odds": "−139",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan mitchell",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+124",
+    "under_odds": "−165",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+141",
+    "under_odds": "−189",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+144",
+    "under_odds": "−193",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "james harden",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+146",
+    "under_odds": "−196",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "lamelo ball",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+150",
+    "under_odds": "−202",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+161",
+    "under_odds": "−217",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "davion mitchell",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+163",
+    "under_odds": "−220",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+164",
+    "under_odds": "−221",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+165",
+    "under_odds": "−223",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+166",
+    "under_odds": "−224",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+174",
+    "under_odds": "−236",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jrue holiday",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+182",
+    "under_odds": "−247",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+183",
+    "under_odds": "−249",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "austin reaves",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−243",
+    "under_odds": "+180",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cj mccollum",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−226",
+    "under_odds": "+167",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−224",
+    "under_odds": "+166",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "demar derozan",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−218",
+    "under_odds": "+162",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−215",
+    "under_odds": "+160",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−202",
+    "under_odds": "+150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "rj barrett",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−195",
+    "under_odds": "+145",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deni avdija",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−194",
+    "under_odds": "+144",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−184",
+    "under_odds": "+138",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deandre ayton",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−182",
+    "under_odds": "+136",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "zach lavine",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−169",
+    "under_odds": "+127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−164",
+    "under_odds": "+123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−164",
+    "under_odds": "+123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−144",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−137",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jalen brunson",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−135",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−128",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−120",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "−114",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "donovan clingan",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "−103",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "+114",
+    "under_odds": "−151",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "+138",
+    "under_odds": "−184",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deandre ayton",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "+162",
+    "under_odds": "−218",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "dereck lively ii",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−191",
+    "under_odds": "+143",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−160",
+    "under_odds": "+120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−154",
+    "under_odds": "+116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−153",
+    "under_odds": "+115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−152",
+    "under_odds": "+115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−146",
+    "under_odds": "+110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−144",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−143",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−138",
+    "under_odds": "+104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−131",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jarrett allen",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−106",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−101",
+    "under_odds": "−131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+114",
+    "under_odds": "−152",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+114",
+    "under_odds": "−151",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+125",
+    "under_odds": "−167",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+152",
+    "under_odds": "−204",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+192",
+    "under_odds": "−261",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deni avdija",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+205",
+    "under_odds": "−281",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "anthony davis",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "−136",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "og anunoby",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+108",
+    "under_odds": "−143",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "evan mobley",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+131",
+    "under_odds": "−175",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "kawhi leonard",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+143",
+    "under_odds": "−192",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "alexandre sarr",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+144",
+    "under_odds": "−193",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deandre ayton",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+147",
+    "under_odds": "−198",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−176",
+    "under_odds": "+132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "mikal bridges",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−173",
+    "under_odds": "+130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "toumani camara",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−172",
+    "under_odds": "+129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "p.j. washington",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−164",
+    "under_odds": "+123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "cooper flagg",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−159",
+    "under_odds": "+120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "TOR Raptors @ DAL Mavericks",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−148",
+    "under_odds": "+111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "andrew wiggins",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−116",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−113",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−103",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "bam adebayo",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−101",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ WAS Wizards",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "+117",
+    "under_odds": "−156",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "domantas sabonis",
+    "game": "LA Lakers @ SAC Kings",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "+120",
+    "under_odds": "−159",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "deni avdija",
+    "game": "POR Trail Blazers @ LA Clippers",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "+143",
+    "under_odds": "−192",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "karl-anthony towns",
+    "game": "NY Knicks @ MIA Heat",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "+145",
+    "under_odds": "−194",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ CLE Cavaliers",
+    "prop_type": "points + assists",
+    "line": 10.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-10-26"
+  }
+]

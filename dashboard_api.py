@@ -54,11 +54,41 @@ def get_discrepancies(date):
 def get_best_odds(date):
     manager = PropsManager(base_folder="props_data", use_db=True)
     try:
+        # This now finds bets where one side is + and other is -
         odds = manager.find_best_odds(date, min_odds_diff=5)
         return jsonify(odds)
     except Exception as e:
         print(f"Error in /api/best-odds/{date}: {e}")
         return jsonify({"error": "Failed to fetch best odds data"}), 500
+    finally:
+        manager.close()
+
+
+@app.route('/api/value-bets/<date>')
+def get_value_bets(date):
+    manager = PropsManager(base_folder="props_data", use_db=True)
+    try:
+        # This finds bets with the largest odds disagreement, regardless of +/-
+        value_bets = manager.find_value_bets(date, min_edge=1.5, min_odds_diff=20)
+        return jsonify(value_bets)
+    except Exception as e:
+        print(f"Error in /api/value-bets/{date}: {e}")
+        return jsonify({"error": "Failed to fetch value bets data"}), 500
+    finally:
+        manager.close()
+
+# <-- MODIFIED API ENDPOINT -->
+@app.route('/api/consensus-bets/<date>')
+def get_consensus_bets(date):
+    manager = PropsManager(base_folder="props_data", use_db=True)
+    try:
+        # Finds bets where both books favor a side, but one has a discount
+        # MODIFIED: Changed min_odds_diff to 20 to match your manager file's new default
+        bets = manager.find_consensus_bets(date, min_odds_diff=20) 
+        return jsonify(bets)
+    except Exception as e:
+        print(f"Error in /api/consensus-bets/{date}: {e}")
+        return jsonify({"error": "Failed to fetch consensus bets data"}), 500
     finally:
         manager.close()
 
@@ -102,12 +132,6 @@ def trigger_scrape():
         traceback.print_exc()
         return jsonify({"error": f"Failed to start scraper process: {str(e)}"}), 500
 
-@app.route('/api/value-bets/<date>')
-def get_value_bets(date):
-    manager = PropsManager(base_folder="props_data", use_db=True)
-    value_bets = manager.find_value_bets(date, min_edge=1.5)
-    manager.close()
-    return jsonify(value_bets)
 
 if __name__ == '__main__':
     # Use host='0.0.0.0' to make it accessible on your network if needed

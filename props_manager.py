@@ -702,53 +702,148 @@ class PropsDatabase:
                 prop['fd_over'], prop['fd_under']
             )
             
-            if value or sharp:
-                # Determine which book to use
-                if value and value['side'] == 'over':
-                    best_book = 'DraftKings' if prop['dk_over'] and (not prop['fd_over'] or prop['dk_over'] > prop['fd_over']) else 'FanDuel'
-                    best_odds = prop['dk_over'] if best_book == 'DraftKings' else prop['fd_over']
-                elif value and value['side'] == 'under':
-                    best_book = 'DraftKings' if prop['dk_under'] and (not prop['fd_under'] or prop['dk_under'] > prop['fd_under']) else 'FanDuel'
-                    best_odds = prop['dk_under'] if best_book == 'DraftKings' else prop['fd_under']
-                else:
-                    # Sharp indicator but no clear value side - pick the side with bigger odds discrepancy
-                    over_diff = abs(prop['dk_over'] - prop['fd_over']) if prop['dk_over'] and prop['fd_over'] else 0
-                    under_diff = abs(prop['dk_under'] - prop['fd_under']) if prop['dk_under'] and prop['fd_under'] else 0
-                    
-                    if over_diff > under_diff:
-                        best_book = 'DraftKings' if prop['dk_over'] > prop['fd_over'] else 'FanDuel'
-                        best_odds = max(prop['dk_over'], prop['fd_over'])
-                        value = {'side': 'over', 'edge_percent': over_diff / 10, 'confidence': 'low', 'reasoning': 'Odds discrepancy'}
-                    else:
-                        best_book = 'DraftKings' if prop['dk_under'] > prop['fd_under'] else 'FanDuel'
-                        best_odds = max(prop['dk_under'], prop['fd_under'])
-                        value = {'side': 'under', 'edge_percent': under_diff / 10, 'confidence': 'low', 'reasoning': 'Odds discrepancy'}
-                
-                value_bet = {
-                    'player': prop['player'],
-                    'prop_type': prop['prop_type'],
-                    'line': prop['line'],
-                    'game': prop['game'],
-                    'team': prop['team'],
-                    'recommended_side': value['side'] if value else 'over',
-                    'best_book': best_book,
-                    'best_odds': best_odds,
-                    'edge_percent': value['edge_percent'] if value else 0,
-                    'confidence': value['confidence'] if value else 'low',
-                    'reasoning': value['reasoning'] if value else 'Market discrepancy',
-                    'sharp_indicators': sharp,
-                    'all_odds': {
-                        'dk_over': prop['dk_over'],
-                        'dk_under': prop['dk_under'],
-                        'fd_over': prop['fd_over'],
-                        'fd_under': prop['fd_under']
-                    }
+            # --- MODIFIED LOGIC ---
+            # Determine which side has the bigger discrepancy
+            over_diff = abs(prop['dk_over'] - prop['fd_over']) if prop['dk_over'] and prop['fd_over'] else 0
+            under_diff = abs(prop['dk_under'] - prop['fd_under']) if prop['dk_under'] and prop['fd_under'] else 0
+
+            # Only proceed if there's a significant odds difference
+            if over_diff < min_odds_diff and under_diff < min_odds_diff:
+                continue
+            
+            if over_diff > under_diff:
+                # Value is on the OVER
+                recommended_side = 'over'
+                best_book = 'DraftKings' if prop['dk_over'] > prop['fd_over'] else 'FanDuel'
+                best_odds = max(prop['dk_over'], prop['fd_over'])
+                edge_percent = over_diff / 10  # Simple edge calc based on diff
+                reasoning = "Odds discrepancy"
+            else:
+                # Value is on the UNDER
+                recommended_side = 'under'
+                best_book = 'DraftKings' if prop['dk_under'] > prop['fd_under'] else 'FanDuel'
+                best_odds = max(prop['dk_under'], prop['fd_under'])
+                edge_percent = under_diff / 10 # Simple edge calc based on diff
+                reasoning = "Odds discrepancy"
+
+            value_bet = {
+                'player': prop['player'],
+                'prop_type': prop['prop_type'],
+                'line': prop['line'],
+                'game': prop['game'],
+                'team': prop['team'],
+                'recommended_side': recommended_side,
+                'best_book': best_book,
+                'best_odds': best_odds,
+                'edge_percent': edge_percent,
+                'confidence': 'medium' if edge_percent > 15 else 'low',
+                'reasoning': reasoning,
+                'sharp_indicators': sharp,
+                'all_odds': {
+                    'dk_over': prop['dk_over'],
+                    'dk_under': prop['dk_under'],
+                    'fd_over': prop['fd_over'],
+                    'fd_under': prop['fd_under']
                 }
-                
-                value_bets.append(value_bet)
+            }
+            
+            value_bets.append(value_bet)
         
         # Sort by edge percentage (highest edge first)
         return sorted(value_bets, key=lambda x: x['edge_percent'], reverse=True)
+
+    # <-- MODIFIED: Changed default min_odds_diff from 50 to 20 -->
+    def find_consensus_bets(self, game_date, min_odds_diff=20):
+        """
+        Finds 'safe' bets where both books agree on the favored side (both < 0),
+        but one book offers a significant discount (e.g., -130 vs -200).
+        """
+        cursor = self.conn.cursor()
+        
+        # Get all props where lines match and both books have odds
+        cursor.execute('''
+            WITH prop_comparison AS (
+                SELECT 
+                    player,
+                    prop_type,
+                    line,
+                    MAX(CASE WHEN LOWER(sportsbook) = 'draftkings' THEN over_odds END) as dk_over,
+                    MAX(CASE WHEN LOWER(sportsbook) = 'draftkings' THEN under_odds END) as dk_under,
+                    MAX(CASE WHEN LOWER(sportsbook) = 'fanduel' THEN over_odds END) as fd_over,
+                    MAX(CASE WHEN LOWER(sportsbook) = 'fanduel' THEN under_odds END) as fd_under,
+                    MAX(game) as game,
+                    MAX(team) as team
+                FROM player_props
+                WHERE game_date = ?
+                GROUP BY player, prop_type, line
+                HAVING COUNT(DISTINCT sportsbook) > 1 
+                   AND dk_over IS NOT NULL AND dk_under IS NOT NULL
+                   AND fd_over IS NOT NULL AND fd_under IS NOT NULL
+            )
+            SELECT *
+            FROM prop_comparison
+            WHERE 
+                -- Both OVERs are favored AND there's a big difference
+                ( (dk_over < 0 AND fd_over < 0) AND ABS(dk_over - fd_over) >= ? )
+                OR
+                -- Both UNDERs are favored AND there's a big difference
+                ( (dk_under < 0 AND fd_under < 0) AND ABS(dk_under - fd_under) >= ? )
+        ''', (game_date, min_odds_diff, min_odds_diff))
+        
+        columns = [description[0] for description in cursor.description]
+        results = cursor.fetchall()
+        props = [dict(zip(columns, row)) for row in results]
+        
+        consensus_bets = []
+        
+        for prop in props:
+            # Check OVER consensus
+            if prop['dk_over'] < 0 and prop['fd_over'] < 0:
+                over_diff = abs(prop['dk_over'] - prop['fd_over'])
+                if over_diff >= min_odds_diff:
+                    # Find the better (less negative) odds
+                    best_book = 'DraftKings' if prop['dk_over'] > prop['fd_over'] else 'FanDuel'
+                    best_odds = max(prop['dk_over'], prop['fd_over'])
+                    worst_odds = min(prop['dk_over'], prop['fd_over'])
+                    
+                    consensus_bets.append({
+                        'player': prop['player'],
+                        'prop_type': prop['prop_type'],
+                        'line': prop['line'],
+                        'game': prop['game'],
+                        'team': prop['team'],
+                        'side': 'Over',
+                        'best_book': best_book,
+                        'best_odds': best_odds,
+                        'other_odds': worst_odds,
+                        'odds_difference': over_diff,
+                        'reasoning': f"Market consensus favors Over. Get {over_diff} point discount."
+                    })
+
+            # Check UNDER consensus
+            if prop['dk_under'] < 0 and prop['fd_under'] < 0:
+                under_diff = abs(prop['dk_under'] - prop['fd_under'])
+                if under_diff >= min_odds_diff:
+                    # Find the better (less negative) odds
+                    best_book = 'DraftKings' if prop['dk_under'] > prop['fd_under'] else 'FanDuel'
+                    best_odds = max(prop['dk_under'], prop['fd_under'])
+                    worst_odds = min(prop['dk_under'], prop['fd_under'])
+                    
+                    consensus_bets.append({
+                        'player': prop['player'],
+                        'prop_type': prop['prop_type'],
+                        'line': prop['line'],
+                        'game': prop['game'],
+                        'team': prop['team'],
+                        'side': 'Under',
+                        'best_book': best_book,
+                        'best_odds': best_odds,
+                        'other_odds': worst_odds,
+                        'odds_difference': under_diff,
+                        'reasoning': f"Market consensus favors Under. Get {under_diff} point discount."
+                    })
+
+        return sorted(consensus_bets, key=lambda x: x['odds_difference'], reverse=True)
         
     def close(self):
         self.conn.close()
@@ -850,12 +945,21 @@ class PropsManager:
             return self.db.get_all_props_for_comparison(game_date)
         return []
     
-    def find_value_bets(self, game_date, min_edge=2.0):
-        """Find value betting opportunities"""
+    def find_value_bets(self, game_date, min_edge=2.0, min_odds_diff=20):
+        """Find value betting opportunities based on odds discrepancies"""
         if self.use_db:
-            return self.db.find_value_bets(game_date, min_edge=min_edge)
+            # We pass min_odds_diff to the DB function
+            return self.db.find_value_bets(game_date, min_edge=min_edge, min_odds_diff=min_odds_diff)
         return []
     
+    # <-- MODIFIED: Changed default min_odds_diff from 50 to 20 -->
+    def find_consensus_bets(self, game_date, min_odds_diff=20):
+        """Find consensus betting opportunities"""
+        if self.use_db:
+            return self.db.find_consensus_bets(game_date, min_odds_diff=min_odds_diff)
+        return []
+
     def close(self):
         if self.use_db:
             self.db.close()
+

@@ -1,5 +1,9 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Search, TrendingUp, AlertCircle, Filter, DollarSign, BarChart3, Activity, ArrowUpDown, Clock, Zap, Star, RefreshCw, CheckCircle } from 'lucide-react';
+import { 
+  Search, TrendingUp, AlertCircle, DollarSign, BarChart3, 
+  Activity, Clock, Zap, Star, RefreshCw, CheckCircle, ShieldCheck,
+  Filter // <-- Added Filter icon for new dropdown
+} from 'lucide-react';
 
 const API_BASE = 'http://127.0.0.1:5000/api';
 
@@ -13,11 +17,13 @@ const NBAPropsDashboard = () => {
   const [discrepancies, setDiscrepancies] = useState([]);
   const [bestOdds, setBestOdds] = useState([]);
   const [valueBets, setValueBets] = useState([]); 
+  const [consensusBets, setConsensusBets] = useState([]); 
   // Start loading as true since we're fetching the date
   const [loading, setLoading] = useState(true); 
-  const [isScraping, setIsScraping] = useState(false); // <-- NEW: State for full refresh
+  const [isScraping, setIsScraping] = useState(false); 
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedPropType, setSelectedPropType] = useState('all');
+  const [selectedBook, setSelectedBook] = useState('all'); // <-- NEW: Sportsbook filter state
   const [sortBy, setSortBy] = useState('profit');
   const [showFavorites, setShowFavorites] = useState(false);
   const [favorites, setFavorites] = useState([]);
@@ -75,15 +81,16 @@ const NBAPropsDashboard = () => {
     setLoading(true);
     setError(null); // Clear previous errors
     try {
-      const [propsRes, arbRes, discRes, oddsRes, valueRes] = await Promise.all([
+      const [propsRes, arbRes, discRes, oddsRes, valueRes, consensusRes] = await Promise.all([
         fetch(`${API_BASE}/props/${selectedDate}`),
         fetch(`${API_BASE}/arbitrage/${selectedDate}`),
         fetch(`${API_BASE}/discrepancies/${selectedDate}`),
         fetch(`${API_BASE}/best-odds/${selectedDate}`),
-        fetch(`${API_BASE}/value-bets/${selectedDate}`) 
+        fetch(`${API_BASE}/value-bets/${selectedDate}`),
+        fetch(`${API_BASE}/consensus-bets/${selectedDate}`)
       ]);
 
-      if (!propsRes.ok || !arbRes.ok || !discRes.ok || !oddsRes.ok || !valueRes.ok) {
+      if (!propsRes.ok || !arbRes.ok || !discRes.ok || !oddsRes.ok || !valueRes.ok || !consensusRes.ok) {
         throw new Error('One or more API endpoints failed');
       }
 
@@ -92,12 +99,15 @@ const NBAPropsDashboard = () => {
       const discData = await discRes.json();
       const oddsData = await oddsRes.json();
       const valueData = await valueRes.json(); 
+      const consensusData = await consensusRes.json();
 
       setAllProps(propsData);
       setArbitrage(arbData);
       setDiscrepancies(discData);
       setBestOdds(oddsData);
       setValueBets(valueData); 
+      setConsensusBets(consensusData);
+
     } catch (error) {
       console.error('Error fetching data:', error);
       setError(`Failed to fetch prop data. (${error.message})`);
@@ -106,21 +116,19 @@ const NBAPropsDashboard = () => {
       setDiscrepancies([]);
       setBestOdds([]);
       setValueBets([]); 
+      setConsensusBets([]);
     }
     setLoading(false);
   };
 
-  // <-- NEW: Function to handle the full refresh process -->
   const handleFullRefresh = async () => {
-    // Don't run if already loading or scraping
     if (loading || isScraping) return; 
 
-    setIsScraping(true); // This will show "Scraping..."
+    setIsScraping(true);
     setError(null);
-    if (autoRefresh) setAutoRefresh(false); // Pause auto-refresh
+    if (autoRefresh) setAutoRefresh(false);
 
     try {
-      // Step 1: Tell the backend to start scraping
       const scrapeRes = await fetch(`${API_BASE}/trigger-scrape`, { 
         method: 'POST' 
       });
@@ -135,21 +143,15 @@ const NBAPropsDashboard = () => {
         throw new Error(errData.error || 'Failed to start scraper process.');
       }
       
-      // Step 2: WAIT for scrapers to run.
-      // MODIFIED: Adjusted wait time to 32 seconds based on your test.
-      // (30s for scrapers + 2s buffer)
       await new Promise(resolve => setTimeout(resolve, 32000)); 
 
-      // Step 3: Now fetch the new data.
-      // fetchAllData will set loading(true) -> "Loading..."
-      // and then loading(false) when done.
       await fetchAllData(); 
       
     } catch (err) {
       console.error('Full refresh failed:', err);
       setError(err.message);
     } finally {
-      setIsScraping(false); // Reset the "Scraping..." state
+      setIsScraping(false);
     }
   };
 
@@ -202,6 +204,9 @@ const NBAPropsDashboard = () => {
       case 'value': 
         data = valueBets;
         break;
+      case 'consensus':
+        data = consensusBets;
+        break;
       case 'discrepancies':
         data = discrepancies;
         break;
@@ -234,6 +239,12 @@ const NBAPropsDashboard = () => {
         return isFavorite(item.player, propType);
       });
     }
+    
+    // <-- NEW: Sportsbook filter (only applies to actionable tabs) -->
+    if (selectedBook !== 'all' && ['value', 'consensus', 'best-odds'].includes(activeTab)) {
+      data = data.filter(item => item.best_book === selectedBook);
+    }
+
 
     // Sort
     if (activeTab === 'arbitrage') {
@@ -244,6 +255,11 @@ const NBAPropsDashboard = () => {
     } else if (activeTab === 'value') { 
       data = [...data].sort((a, b) => 
         sortBy === 'profit' ? (b.edge_percent || 0) - (a.edge_percent || 0) : 
+        a.player.localeCompare(b.player)
+      );
+    } else if (activeTab === 'consensus') {
+      data = [...data].sort((a, b) => 
+        sortBy === 'profit' ? b.odds_difference - a.odds_difference :
         a.player.localeCompare(b.player)
       );
     } else if (activeTab === 'best-odds') {
@@ -259,14 +275,20 @@ const NBAPropsDashboard = () => {
     }
 
     return data;
-  }, [activeTab, groupedProps, arbitrage, discrepancies, bestOdds, valueBets, searchQuery, selectedPropType, sortBy, showFavorites, favorites]);
+  }, [
+    activeTab, groupedProps, arbitrage, discrepancies, 
+    bestOdds, valueBets, consensusBets, 
+    searchQuery, selectedPropType, selectedBook, // <-- ADDED selectedBook
+    sortBy, showFavorites, favorites
+  ]);
 
   const propTypes = useMemo(() => {
     const types = new Set();
     allProps.forEach(prop => types.add(prop.prop_type));
     valueBets.forEach(prop => types.add(prop.prop_type));
+    consensusBets.forEach(prop => types.add(prop.prop_type));
     return ['all', ...Array.from(types).sort()];
-  }, [allProps, valueBets]); 
+  }, [allProps, valueBets, consensusBets]);
 
   const formatOdds = (odds) => {
     if (odds === null || odds === undefined) return '-';
@@ -326,15 +348,12 @@ const NBAPropsDashboard = () => {
                 onChange={(e) => setSelectedDate(e.target.value)}
                 className="bg-slate-800 border border-purple-500/30 rounded-lg px-4 py-2 text-sm focus:ring-2 focus:ring-purple-500 outline-none"
               />
-              {/* <-- MODIFIED: Refresh button --> */}
               <button
-                onClick={handleFullRefresh} // <-- Use new function
-                disabled={loading || isScraping} // <-- Disable if loading OR scraping
+                onClick={handleFullRefresh}
+                disabled={loading || isScraping}
                 className="bg-purple-600 hover:bg-purple-700 px-4 py-2 rounded-lg flex items-center gap-2 transition-all disabled:opacity-50"
               >
-                {/* <-- Show spinner if loading OR scraping --> */}
                 {(loading || isScraping) ? <RefreshCw className="w-4 h-4 animate-spin" /> : <RefreshCw className="w-4 h-4" />}
-                {/* <-- Show different text based on state --> */}
                 {isScraping ? 'Scraping...' : (loading ? 'Loading...' : 'Refresh')}
               </button>
               <button
@@ -349,8 +368,7 @@ const NBAPropsDashboard = () => {
             </div>
           </div>
 
-          {/* Stats Bar */}
-          <div className="grid grid-cols-5 gap-4 mb-4">
+          <div className="grid grid-cols-6 gap-4 mb-4">
             <div className="bg-gradient-to-br from-green-500/20 to-green-600/20 border border-green-500/30 rounded-lg p-3">
               <div className="flex items-center justify-between">
                 <div>
@@ -367,6 +385,15 @@ const NBAPropsDashboard = () => {
                   <p className="text-2xl font-bold">{valueBets.length}</p>
                 </div>
                 <CheckCircle className="w-8 h-8 text-yellow-400" />
+              </div>
+            </div>
+            <div className="bg-gradient-to-br from-cyan-500/20 to-cyan-600/20 border border-cyan-500/30 rounded-lg p-3">
+              <div className="flex items-center justify-between">
+                <div>
+                  <p className="text-xs text-cyan-400 mb-1">Consensus</p>
+                  <p className="text-2xl font-bold">{consensusBets.length}</p>
+                </div>
+                <ShieldCheck className="w-8 h-8 text-cyan-400" />
               </div>
             </div>
             <div className="bg-gradient-to-br from-orange-500/20 to-orange-600/20 border border-orange-500/30 rounded-lg p-3">
@@ -403,6 +430,7 @@ const NBAPropsDashboard = () => {
             {[
               { id: 'arbitrage', label: 'Arbitrage', icon: Zap, color: 'green' },
               { id: 'value', label: 'Value Bets', icon: CheckCircle, color: 'yellow' },
+              { id: 'consensus', label: 'Market Consensus', icon: ShieldCheck, color: 'cyan' },
               { id: 'discrepancies', label: 'Line Mismatches', icon: TrendingUp, color: 'orange' },
               { id: 'best-odds', label: 'Best Odds', icon: DollarSign, color: 'blue' },
               { id: 'all', label: 'All Props', icon: BarChart3, color: 'purple' }
@@ -429,8 +457,9 @@ const NBAPropsDashboard = () => {
 
       {/* Filters */}
       <div className="max-w-7xl mx-auto px-4 py-4">
+        {/* <-- MODIFIED: Grid cols 5 --> */}
         <div className="bg-slate-800/50 backdrop-blur-sm border border-purple-500/20 rounded-lg p-4 mb-4">
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
             <div className="relative">
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-4 h-4 text-gray-400" />
               <input
@@ -461,6 +490,19 @@ const NBAPropsDashboard = () => {
             >
               <option value="profit">Sort by Value</option>
               <option value="player">Sort by Player</option>
+            </select>
+
+            {/* <-- NEW: Sportsbook Filter --> */}
+            <select
+              value={selectedBook}
+              onChange={(e) => setSelectedBook(e.target.value)}
+              className="bg-slate-900 border border-purple-500/30 rounded-lg px-4 py-2 text-sm focus:ring-2 focus:ring-purple-500 outline-none"
+              // <-- Disabled logic: Only enabled on actionable tabs -->
+              disabled={!['all', 'value', 'consensus', 'best-odds'].includes(activeTab)}
+            >
+              <option value="all">All Sportsbooks</option>
+              <option value="DraftKings">DraftKings</option>
+              <option value="FanDuel">FanDuel</option>
             </select>
 
             <button
@@ -509,9 +551,13 @@ const NBAPropsDashboard = () => {
               <AlertCircle className="w-16 h-16 text-gray-400 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">No Results Found</h3>
               <p className="text-gray-400">Try adjusting your filters or search query.</p>
-              <p className="text-gray-500 text-sm mt-2">
+              {/* <-- NEW: More specific empty state message --> */}
+              {selectedBook !== 'all' && <p className="text-gray-500 text-sm mt-2">
+                (No results found for {selectedBook} with these filters)
+              </p>}
+              {selectedBook === 'all' && <p className="text-gray-500 text-sm mt-2">
                 (Click "Refresh" to scrape live data for {selectedDate})
-              </p>
+              </p>}
             </div>
           ) : activeTab === 'value' ? (
             // Value Bets View
@@ -585,6 +631,67 @@ const NBAPropsDashboard = () => {
                     </div>
                   </div>
                 )}
+              </div>
+            ))
+          ) : activeTab === 'consensus' ? (
+            // Market Consensus View
+            filteredData.map((bet, idx) => (
+              <div key={idx} className="bg-gradient-to-br from-cyan-500/10 to-cyan-600/10 border-2 border-cyan-500/30 rounded-xl p-4 hover:border-cyan-500/50 transition-all">
+                <div className="flex items-start justify-between mb-3">
+                  <div className="flex-1">
+                    <div className="flex items-center gap-3 mb-2">
+                      <button
+                        onClick={() => toggleFavorite(bet.player, bet.prop_type)}
+                        className="text-yellow-400 hover:scale-110 transition-transform"
+                      >
+                        <Star className={`w-5 h-5 ${isFavorite(bet.player, bet.prop_type) ? 'fill-current' : ''}`} />
+                      </button>
+                      <h3 className="text-xl font-bold capitalize">{bet.player}</h3>
+                      <span className="bg-cyan-500/20 text-cyan-400 px-3 py-1 rounded-full text-xs font-semibold">
+                        {bet.prop_type.toUpperCase()} {bet.side}
+                      </span>
+                    </div>
+                    <p className="text-sm text-gray-400">{bet.game}</p>
+                  </div>
+                  <div className="text-right">
+                    <div className="flex items-center gap-2 mb-1">
+                      <ShieldCheck className="w-5 h-5 text-cyan-400" />
+                      <span className="text-2xl font-bold text-cyan-400">
+                        +{bet.odds_difference}
+                      </span>
+                    </div>
+                    <p className="text-xs text-gray-400">Consensus Discount</p>
+                  </div>
+                </div>
+
+                <div className="bg-slate-900/50 rounded-lg p-4 border border-purple-500/20 mb-3">
+                  <div className="flex items-center justify-between mb-3">
+                    <span className="text-gray-400">Line: {bet.line}</span>
+                    <span className="text-xs bg-cyan-500/20 text-cyan-400 px-2 py-1 rounded">
+                      {bet.side}
+                    </span>
+                  </div>
+                  
+                  <div className="grid grid-cols-2 gap-4">
+                    <div className="text-center">
+                      <p className="text-xs text-gray-400 mb-1">✅ {bet.best_book} (Discounted)</p>
+                      <p className={`text-3xl font-bold ${getOddsColor(bet.best_odds)}`}>
+                        {formatOdds(bet.best_odds)}
+                      </p>
+                    </div>
+                    <div className="text-center opacity-60">
+                      <p className="text-xs text-gray-400 mb-1">Other (Sharp Line)</p>
+                      <p className={`text-xl font-bold ${getOddsColor(bet.other_odds)}`}>
+                        {formatOdds(bet.other_odds)}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="mt-3 bg-cyan-500/20 border border-cyan-500/30 rounded-lg p-2">
+                  <p className="text-xs text-cyan-400">
+                    💡 <strong>Reason:</strong> {bet.reasoning}
+                  </p>
+                </div>
               </div>
             ))
           ) : activeTab === 'arbitrage' ? (
@@ -777,6 +884,10 @@ const NBAPropsDashboard = () => {
               const dkLine = prop.books.draftkings?.line;
               const fdLine = prop.books.fanduel?.line;
               const lineMismatch = hasBothBooks && dkLine !== fdLine;
+              
+              // <-- ALL PROPS FILTER LOGIC -->
+              if (selectedBook === 'DraftKings' && !prop.books.draftkings) return null;
+              if (selectedBook === 'FanDuel' && !prop.books.fanduel) return null;
 
               return (
                 <div key={idx} className="bg-slate-800/50 backdrop-blur-sm border border-purple-500/20 rounded-xl p-4 hover:border-purple-500/50 transition-all">
@@ -806,48 +917,54 @@ const NBAPropsDashboard = () => {
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     {/* DraftKings Card */}
-                    <div className={`bg-slate-900/50 rounded-lg p-3 border ${prop.books.draftkings ? 'border-purple-500/20' : 'border-slate-700/50 opacity-50'}`}>
-                      <div className="flex items-center justify-between mb-2">
-                        <span className="text-xs font-semibold text-purple-400">DraftKings</span>
-                        <span className="text-lg font-bold text-white">{prop.books.draftkings?.line ?? '-'}</span>
-                      </div>
-                      <div className="grid grid-cols-2 gap-2">
-                        <div className="text-center bg-slate-800/50 rounded p-2">
-                          <p className="text-xs text-gray-400 mb-1">Over</p>
-                          <p className={`text-lg font-bold ${getOddsColor(prop.books.draftkings?.overOdds)}`}>
-                            {formatOdds(prop.books.draftkings?.overOdds)}
-                          </p>
+                    {/* <-- MODIFIED: Conditional Rendering for "All Props" --> */}
+                    {(selectedBook === 'all' || selectedBook === 'DraftKings') && (
+                      <div className={`bg-slate-900/50 rounded-lg p-3 border ${prop.books.draftkings ? 'border-purple-500/20' : 'border-slate-700/50 opacity-50'}`}>
+                        <div className="flex items-center justify-between mb-2">
+                          <span className="text-xs font-semibold text-purple-400">DraftKings</span>
+                          <span className="text-lg font-bold text-white">{prop.books.draftkings?.line ?? '-'}</span>
                         </div>
-                        <div className="text-center bg-slate-800/50 rounded p-2">
-                          <p className="text-xs text-gray-400 mb-1">Under</p>
-                          <p className={`text-lg font-bold ${getOddsColor(prop.books.draftkings?.underOdds)}`}>
-                            {formatOdds(prop.books.draftkings?.underOdds)}
-                          </p>
+                        <div className="grid grid-cols-2 gap-2">
+                          <div className="text-center bg-slate-800/50 rounded p-2">
+                            <p className="text-xs text-gray-400 mb-1">Over</p>
+                            <p className={`text-lg font-bold ${getOddsColor(prop.books.draftkings?.overOdds)}`}>
+                              {formatOdds(prop.books.draftkings?.overOdds)}
+                            </p>
+                          </div>
+                          <div className="text-center bg-slate-800/50 rounded p-2">
+                            <p className="text-xs text-gray-400 mb-1">Under</p>
+                            <p className={`text-lg font-bold ${getOddsColor(prop.books.draftkings?.underOdds)}`}>
+                              {formatOdds(prop.books.draftkings?.underOdds)}
+                            </p>
+                          </div>
                         </div>
                       </div>
-                    </div>
+                    )}
 
                     {/* FanDuel Card */}
-                    <div className={`bg-slate-900/50 rounded-lg p-3 border ${prop.books.fanduel ? 'border-blue-500/20' : 'border-slate-700/50 opacity-50'}`}>
-                      <div className="flex items-center justify-between mb-2">
-                        <span className="text-xs font-semibold text-blue-400">FanDuel</span>
-                        <span className="text-lg font-bold text-white">{prop.books.fanduel?.line ?? '-'}</span>
-                      </div>
-                      <div className="grid grid-cols-2 gap-2">
-                        <div className="text-center bg-slate-800/50 rounded p-2">
-                          <p className="text-xs text-gray-400 mb-1">Over</p>
-                          <p className={`text-lg font-bold ${getOddsColor(prop.books.fanduel?.overOdds)}`}>
-                            {formatOdds(prop.books.fanduel?.overOdds)}
-                          </p>
+                    {/* <-- MODIFIED: Conditional Rendering for "All Props" --> */}
+                    {(selectedBook === 'all' || selectedBook === 'FanDuel') && (
+                      <div className={`bg-slate-900/50 rounded-lg p-3 border ${prop.books.fanduel ? 'border-blue-500/20' : 'border-slate-700/50 opacity-50'}`}>
+                        <div className="flex items-center justify-between mb-2">
+                          <span className="text-xs font-semibold text-blue-400">FanDuel</span>
+                          <span className="text-lg font-bold text-white">{prop.books.fanduel?.line ?? '-'}</span>
                         </div>
-                        <div className="text-center bg-slate-800/50 rounded p-2">
-                          <p className="text-xs text-gray-400 mb-1">Under</p>
-                          <p className={`text-lg font-bold ${getOddsColor(prop.books.fanduel?.underOdds)}`}>
-                            {formatOdds(prop.books.fanduel?.underOdds)}
-                          </p>
+                        <div className="grid grid-cols-2 gap-2">
+                          <div className="text-center bg-slate-800/50 rounded p-2">
+                            <p className="text-xs text-gray-400 mb-1">Over</p>
+                            <p className={`text-lg font-bold ${getOddsColor(prop.books.fanduel?.overOdds)}`}>
+                              {formatOdds(prop.books.fanduel?.overOdds)}
+                            </p>
+                          </div>
+                          <div className="text-center bg-slate-800/50 rounded p-2">
+                            <p className="text-xs text-gray-400 mb-1">Under</p>
+                            <p className={`text-lg font-bold ${getOddsColor(prop.books.fanduel?.underOdds)}`}>
+                              {formatOdds(prop.books.fanduel?.underOdds)}
+                            </p>
+                          </div>
                         </div>
                       </div>
-                    </div>
+                    )}
                   </div>
 
                   {hasBothBooks && (
@@ -858,7 +975,6 @@ const NBAPropsDashboard = () => {
                         const dkUnder = prop.books.draftkings.underOdds;
                         const fdUnder = prop.books.fanduel.underOdds;
                         
-                        // Check if odds exist before comparing
                         const overDiff = (dkOver && fdOver) ? Math.abs(dkOver - fdOver) : 0;
                         const underDiff = (dkUnder && fdUnder) ? Math.abs(dkUnder - fdUnder) : 0;
 
@@ -877,7 +993,8 @@ const NBAPropsDashboard = () => {
                             {underDiff >= 5 && bestUnderBook && (
                               <div className="bg-blue-500/10 border border-blue-500/30 rounded px-2 py-1">
                                 <span className="text-blue-400">
-                                  ⬇ Best Under on {bestUnderBook === 'DK' ? 'DraftKings' : 'FanDuel'} (+{underDiff})
+                                  ⬇ Best Under on {bestUnderBook === 'DK' ? 'DraftKings' : 'FanDuel'} (+
+{underDiff})
                                 </span>
                               </div>
                             )}
@@ -910,6 +1027,7 @@ const NBAPropsDashboard = () => {
               <p className="text-xs text-gray-400 mt-1">Total Arb Profit</p>
             </div>
             <div>
+              {/* <-- THIS IS THE FIX --> */}
               <p className="text-2xl font-bold text-blue-400">
                 {new Set(allProps.map(p => p.player)).size}
               </p>
@@ -921,7 +1039,7 @@ const NBAPropsDashboard = () => {
         {/* Legend */}
         <div className="mt-4 bg-slate-800/30 backdrop-blur-sm border border-purple-500/10 rounded-lg p-4">
           <h4 className="text-sm font-semibold text-gray-400 mb-3">Legend & Tips</h4>
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-3 text-xs">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs">
             <div className="flex items-start gap-2">
               <Zap className="w-4 h-4 text-green-400 flex-shrink-0 mt-0.5" />
               <div>
@@ -934,6 +1052,13 @@ const NBAPropsDashboard = () => {
               <div>
                 <p className="text-yellow-400 font-semibold">Value Bet (EV+)</p>
                 <p className="text-gray-400">A bet where the odds are better than the "fair" probability suggests</p>
+              </div>
+            </div>
+            <div className="flex items-start gap-2">
+              <ShieldCheck className="w-4 h-4 text-cyan-400 flex-shrink-0 mt-0.5" />
+              <div>
+                <p className="text-cyan-400 font-semibold">Market Consensus</p>
+                <p className="text-gray-400">Both books favor a side, but one offers a "discounted" price</p>
               </div>
             </div>
             <div className="flex items-start gap-2">
