@@ -142,9 +142,8 @@ const NBAPropsDashboard = () => {
         }
         throw new Error(errData.error || 'Failed to start scraper process.');
       }
-      
-      await new Promise(resolve => setTimeout(resolve, 32000)); 
 
+      // The scraper is now a blocking call, so we can fetch data immediately after.
       await fetchAllData(); 
       
     } catch (err) {

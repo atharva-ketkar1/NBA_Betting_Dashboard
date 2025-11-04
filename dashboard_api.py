@@ -119,11 +119,25 @@ def trigger_scrape():
     try:
         # Run in the background (non-blocking) - API returns faster
         print(f"Starting scraper script: {scraper_script_path}")
-        # Using Popen to run non-blocking. Output will go to Flask console.
-        process = subprocess.Popen([python_executable, scraper_script_path])
-        print(f"Scraper process started with PID: {process.pid}")
-        # API returns immediately, scraper runs in background
-        return jsonify({"message": "Scraping process initiated."}), 202 # 202 Accepted status
+        # MODIFIED: Use subprocess.run to make it a blocking call.
+        # The API will now wait for the script to finish.
+        # Added check=True to raise an exception if the script fails.
+        # Capture output to provide better feedback to the frontend.
+        result = subprocess.run(
+            [python_executable, scraper_script_path], 
+            capture_output=True, 
+            text=True, 
+            check=True
+        )
+        print(f"Scraper script finished successfully.")
+        print(f"STDOUT:\n{result.stdout}")
+        print(f"STDERR:\n{result.stderr}")
+        
+        # API returns after scraper is done
+        return jsonify({
+            "message": "Scraping and analysis complete.",
+            "output": result.stdout
+        }), 200
 
     except Exception as e:
         print(f"An unexpected error occurred while trying to start scraper: {e}")
