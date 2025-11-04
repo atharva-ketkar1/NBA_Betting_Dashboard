@@ -1,0 +1,5882 @@
+[
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 31.5,
+    "over_odds": "−103",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 28.5,
+    "over_odds": "−123",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 28.5,
+    "over_odds": "−110",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 27.5,
+    "over_odds": "−112",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 26.5,
+    "over_odds": "−108",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 24.5,
+    "over_odds": "−110",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 23.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": "−114",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": "−111",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": "−117",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": "−125",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": "−124",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": "−115",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": "−115",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": "−107",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": "−106",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": "−126",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": "−118",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jordan poole",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": "−117",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": "−124",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": "−106",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": "−102",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": "−111",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": "+100",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−125",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "john collins",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−111",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−108",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−105",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre jr.",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−102",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": "−102",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": "−123",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": "−110",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": "−106",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": "−103",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": "−103",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−128",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−111",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": "−101",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−119",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−109",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce o'neale",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "−102",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "+101",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "saddiq bey",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": "+101",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "wendell carter jr.",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−126",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "zaccharie risacher",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−108",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derrick jones jr.",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−107",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−105",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "anthony black",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": "−102",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kyle kuzma",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−125",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "bobby portis",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−122",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moussa diabate",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−118",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−112",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−106",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": "−105",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−132",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jared mccain",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−127",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moses moody",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−123",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quinten post",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−122",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−114",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "patrick williams",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−112",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "buddy hield",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−110",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "−110",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "+102",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": "+104",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": "−132",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derik queen",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": "−124",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin murray-boyles",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": "−123",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tristan da silva",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": "−115",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaac okoro",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points",
+    "line": 6.5,
+    "over_odds": "−136",
+    "under_odds": "+106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points",
+    "line": 6.5,
+    "over_odds": "−103",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sandro mamukelashvili",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": "−116",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "oso ighodaro",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points",
+    "line": 4.5,
+    "over_odds": "+106",
+    "under_odds": "−135",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 4.5,
+    "over_odds": "+102",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "+112",
+    "under_odds": "−146",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce o'neale three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "+125",
+    "under_odds": "−162",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 3.5,
+    "over_odds": "+127",
+    "under_odds": "−165",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−177",
+    "under_odds": "+136",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−163",
+    "under_odds": "+125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−161",
+    "under_odds": "+124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−137",
+    "under_odds": "+106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "gary trent jr. three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−134",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jordan poole three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−134",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "aj green three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+106",
+    "under_odds": "−138",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+108",
+    "under_odds": "−140",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+128",
+    "under_odds": "−167",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 2.5,
+    "over_odds": "+137",
+    "under_odds": "−179",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−192",
+    "under_odds": "+147",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−186",
+    "under_odds": "+142",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−183",
+    "under_odds": "+140",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−175",
+    "under_odds": "+134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−170",
+    "under_odds": "+131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−164",
+    "under_odds": "+126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−163",
+    "under_odds": "+125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−160",
+    "under_odds": "+123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−147",
+    "under_odds": "+113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−141",
+    "under_odds": "+109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−138",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "saddiq bey three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−138",
+    "under_odds": "+106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−129",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "buddy hield three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−123",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−122",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quinten post three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−117",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−110",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moses moody three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "−101",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+100",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre jr. three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+102",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+104",
+    "under_odds": "−135",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jared mccain three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+108",
+    "under_odds": "−140",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+114",
+    "under_odds": "−148",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "john collins three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+116",
+    "under_odds": "−151",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+121",
+    "under_odds": "−157",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+125",
+    "under_odds": "−163",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu three pointers made o/u",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+125",
+    "under_odds": "−163",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+127",
+    "under_odds": "−165",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+132",
+    "under_odds": "−171",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+134",
+    "under_odds": "−174",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "zaccharie risacher three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+136",
+    "under_odds": "−177",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derrick jones jr. three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+137",
+    "under_odds": "−178",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+139",
+    "under_odds": "−182",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+144",
+    "under_odds": "−188",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james three pointers made o/u",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+145",
+    "under_odds": "−189",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+146",
+    "under_odds": "−190",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn three pointers made o/u",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+150",
+    "under_odds": "−196",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "bobby portis three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+162",
+    "under_odds": "−213",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony three pointers made o/u",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+170",
+    "under_odds": "−224",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tristan da silva three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 1.5,
+    "over_odds": "+178",
+    "under_odds": "−235",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 0.5,
+    "over_odds": "−197",
+    "under_odds": "+150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu three pointers made o/u",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "threes made",
+    "line": 0.5,
+    "over_odds": "−165",
+    "under_odds": "+127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler three pointers made o/u",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "threes made",
+    "line": 0.5,
+    "over_odds": "−164",
+    "under_odds": "+126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 11.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 11.5,
+    "over_odds": "+105",
+    "under_odds": "−136",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": "−143",
+    "under_odds": "+110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": "+103",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "wendell carter jr.",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": "+104",
+    "under_odds": "−134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "−145",
+    "under_odds": "+111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "−141",
+    "under_odds": "+109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moussa diabate",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "−126",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": "+114",
+    "under_odds": "−148",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "john collins",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "−141",
+    "under_odds": "+109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "+101",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": "+102",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "bobby portis",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−151",
+    "under_odds": "+116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre jr.",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−137",
+    "under_odds": "+106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−132",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−127",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−123",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−118",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+103",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+111",
+    "under_odds": "−144",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+117",
+    "under_odds": "−151",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce o'neale",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+121",
+    "under_odds": "−158",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": "+122",
+    "under_odds": "−158",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−153",
+    "under_odds": "+118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−140",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−129",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "andre drummond",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−117",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+102",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quinten post",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+107",
+    "under_odds": "−139",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "saddiq bey",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+109",
+    "under_odds": "−141",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+118",
+    "under_odds": "−154",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": "+125",
+    "under_odds": "−163",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−157",
+    "under_odds": "+120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−153",
+    "under_odds": "+118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−151",
+    "under_odds": "+116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin murray-boyles",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−149",
+    "under_odds": "+115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−136",
+    "under_odds": "+105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−135",
+    "under_odds": "+104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kyle kuzma",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−119",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derrick jones jr.",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sandro mamukelashvili",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "−103",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+105",
+    "under_odds": "−136",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+115",
+    "under_odds": "−150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+115",
+    "under_odds": "−149",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+117",
+    "under_odds": "−152",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+118",
+    "under_odds": "−154",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "adem bona",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+127",
+    "under_odds": "−165",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": "+130",
+    "under_odds": "−169",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−170",
+    "under_odds": "+131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "oso ighodaro",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−170",
+    "under_odds": "+130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−168",
+    "under_odds": "+129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−158",
+    "under_odds": "+122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "anthony black",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−158",
+    "under_odds": "+121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−155",
+    "under_odds": "+120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−145",
+    "under_odds": "+112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−143",
+    "under_odds": "+111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "zaccharie risacher",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−139",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−138",
+    "under_odds": "+107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−127",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "buddy hield",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−123",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaac okoro",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moses moody",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "+103",
+    "under_odds": "−134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": "+115",
+    "under_odds": "−150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 8.5,
+    "over_odds": "+103",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": "+112",
+    "under_odds": "−145",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": "+101",
+    "under_odds": "−130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": "+114",
+    "under_odds": "−148",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": "−140",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": "−133",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": "−123",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": "+115",
+    "under_odds": "−150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−151",
+    "under_odds": "+116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−146",
+    "under_odds": "+112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−145",
+    "under_odds": "+112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−145",
+    "under_odds": "+111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−129",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "+108",
+    "under_odds": "−141",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "+113",
+    "under_odds": "−146",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": "+128",
+    "under_odds": "−167",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−157",
+    "under_odds": "+121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−133",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−133",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−131",
+    "under_odds": "+101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−124",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "−101",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+102",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+105",
+    "under_odds": "−137",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+124",
+    "under_odds": "−162",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+126",
+    "under_odds": "−164",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": "+133",
+    "under_odds": "−173",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce o'neale",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−170",
+    "under_odds": "+130",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−155",
+    "under_odds": "+119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−155",
+    "under_odds": "+119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−149",
+    "under_odds": "+115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−134",
+    "under_odds": "+104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−133",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "+103",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": "+122",
+    "under_odds": "−158",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "−175",
+    "under_odds": "+134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "−142",
+    "under_odds": "+110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "+115",
+    "under_odds": "−149",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "assists",
+    "line": 1.5,
+    "over_odds": "+115",
+    "under_odds": "−149",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds + assists",
+    "line": 18.5,
+    "over_odds": "−129",
+    "under_odds": "+100",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 17.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 14.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds + assists",
+    "line": 13.5,
+    "over_odds": "−128",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 13.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 12.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 12.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds + assists",
+    "line": 12.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 12.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds + assists",
+    "line": 12.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 11.5,
+    "over_odds": "+105",
+    "under_odds": "−136",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "−134",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "−133",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "+103",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "+103",
+    "under_odds": "−134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 10.5,
+    "over_odds": "+106",
+    "under_odds": "−138",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−138",
+    "under_odds": "+106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−134",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−132",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−116",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "+102",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "+102",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds + assists",
+    "line": 9.5,
+    "over_odds": "+103",
+    "under_odds": "−134",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−135",
+    "under_odds": "+104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−132",
+    "under_odds": "+101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−123",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−116",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce o'neale",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 8.5,
+    "over_odds": "+106",
+    "under_odds": "−137",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−133",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "−101",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 7.5,
+    "over_odds": "+116",
+    "under_odds": "−150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−132",
+    "under_odds": "+102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "+108",
+    "under_odds": "−141",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds + assists",
+    "line": 6.5,
+    "over_odds": "+117",
+    "under_odds": "−152",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 5.5,
+    "over_odds": "−137",
+    "under_odds": "+105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 5.5,
+    "over_odds": "−130",
+    "under_odds": "+101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "rebounds + assists",
+    "line": 5.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "rebounds + assists",
+    "line": 5.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "rebounds + assists",
+    "line": 5.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "rebounds + assists",
+    "line": 4.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds + assists",
+    "line": 48.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 42.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 39.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 39.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 38.5,
+    "over_odds": "−109",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds + assists",
+    "line": 37.5,
+    "over_odds": "−109",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 36.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds + assists",
+    "line": 35.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 34.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds + assists",
+    "line": 34.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 33.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds + assists",
+    "line": 31.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds + assists",
+    "line": 31.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds + assists",
+    "line": 30.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 30.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 29.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds + assists",
+    "line": 29.5,
+    "over_odds": "−118",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds + assists",
+    "line": 29.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 29.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds + assists",
+    "line": 29.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 28.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 27.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds + assists",
+    "line": 26.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds + assists",
+    "line": 25.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds + assists",
+    "line": 25.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds + assists",
+    "line": 24.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 24.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds + assists",
+    "line": 23.5,
+    "over_odds": "−124",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds + assists",
+    "line": 23.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds + assists",
+    "line": 22.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 22.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 22.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 22.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 22.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 21.5,
+    "over_odds": "−127",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 21.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 21.5,
+    "over_odds": "−102",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−124",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−116",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce o'neale",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 19.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 18.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds + assists",
+    "line": 17.5,
+    "over_odds": "−127",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 16.5,
+    "over_odds": "−126",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds + assists",
+    "line": 16.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds + assists",
+    "line": 16.5,
+    "over_odds": "−109",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds + assists",
+    "line": 15.5,
+    "over_odds": "−118",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 14.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds + assists",
+    "line": 14.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds + assists",
+    "line": 14.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jared mccain",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds + assists",
+    "line": 13.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds + assists",
+    "line": 10.5,
+    "over_odds": "−129",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 40.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 35.5,
+    "over_odds": "−119",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 32.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 32.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 31.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 31.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 30.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 29.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 29.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 28.5,
+    "over_odds": "−116",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 27.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 26.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 26.5,
+    "over_odds": "−119",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 26.5,
+    "over_odds": "−118",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 26.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 26.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 25.5,
+    "over_odds": "−125",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 25.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 25.5,
+    "over_odds": "−117",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 25.5,
+    "over_odds": "−114",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 24.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 24.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 22.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "john collins",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 22.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 21.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 21.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 21.5,
+    "over_odds": "−110",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−111",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−105",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre jr.",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 20.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 19.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 19.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 19.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "wendell carter jr.",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 19.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 19.5,
+    "over_odds": "−101",
+    "under_odds": "−128",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−127",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 18.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moussa diabate",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 17.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 17.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce o'neale",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 16.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−128",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "saddiq bey",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−112",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 15.5,
+    "over_odds": "+101",
+    "under_odds": "−131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 14.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 14.5,
+    "over_odds": "−115",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derrick jones jr.",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−128",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kyle kuzma",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−116",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "zaccharie risacher",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "anthony black",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quinten post",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 13.5,
+    "over_odds": "−104",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "aj green",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 12.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 12.5,
+    "over_odds": "−107",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + rebounds",
+    "line": 12.5,
+    "over_odds": "−105",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 12.5,
+    "over_odds": "+101",
+    "under_odds": "−131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin murray-boyles",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 11.5,
+    "over_odds": "−129",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 11.5,
+    "over_odds": "−116",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moses moody",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 11.5,
+    "over_odds": "−115",
+    "under_odds": "−112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + rebounds",
+    "line": 11.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 11.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaac okoro",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 9.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sandro mamukelashvili",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + rebounds",
+    "line": 9.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "andre drummond",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + rebounds",
+    "line": 9.5,
+    "over_odds": "+101",
+    "under_odds": "−131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + rebounds",
+    "line": 8.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "oso ighodaro",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + rebounds",
+    "line": 7.5,
+    "over_odds": "−105",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 37.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + assists",
+    "line": 36.5,
+    "over_odds": "−108",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 35.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 35.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 32.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 29.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + assists",
+    "line": 29.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 28.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + assists",
+    "line": 27.5,
+    "over_odds": "−124",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + assists",
+    "line": 26.5,
+    "over_odds": "−106",
+    "under_odds": "−122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + assists",
+    "line": 25.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + assists",
+    "line": 25.5,
+    "over_odds": "−113",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + assists",
+    "line": 25.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 24.5,
+    "over_odds": "−108",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + assists",
+    "line": 23.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + assists",
+    "line": 23.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + assists",
+    "line": 23.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 23.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 23.5,
+    "over_odds": "−104",
+    "under_odds": "−125",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 22.5,
+    "over_odds": "−109",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + assists",
+    "line": 22.5,
+    "over_odds": "−108",
+    "under_odds": "−120",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + assists",
+    "line": 22.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + assists",
+    "line": 20.5,
+    "over_odds": "−122",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + assists",
+    "line": 20.5,
+    "over_odds": "−113",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 19.5,
+    "over_odds": "−114",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + assists",
+    "line": 19.5,
+    "over_odds": "−111",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 19.5,
+    "over_odds": "−110",
+    "under_odds": "−118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−119",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−107",
+    "under_odds": "−121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 18.5,
+    "over_odds": "−105",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + assists",
+    "line": 17.5,
+    "over_odds": "−125",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 17.5,
+    "over_odds": "−119",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 17.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−124",
+    "under_odds": "−104",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−121",
+    "under_odds": "−107",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 16.5,
+    "over_odds": "−102",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 15.5,
+    "over_odds": "−118",
+    "under_odds": "−110",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 15.5,
+    "over_odds": "−103",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce o'neale",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 14.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 13.5,
+    "over_odds": "−131",
+    "under_odds": "+101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + assists",
+    "line": 13.5,
+    "over_odds": "−129",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "points + assists",
+    "line": 13.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + assists",
+    "line": 13.5,
+    "over_odds": "−112",
+    "under_odds": "−115",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "points + assists",
+    "line": 12.5,
+    "over_odds": "−123",
+    "under_odds": "−105",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 12.5,
+    "over_odds": "−118",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "points + assists",
+    "line": 11.5,
+    "over_odds": "−120",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 11.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "points + assists",
+    "line": 11.5,
+    "over_odds": "−102",
+    "under_odds": "−127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "points + assists",
+    "line": 10.5,
+    "over_odds": "−106",
+    "under_odds": "−123",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "points + assists",
+    "line": 8.5,
+    "over_odds": "−109",
+    "under_odds": "−119",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals",
+    "line": 2.5,
+    "over_odds": "−123",
+    "under_odds": "−108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "−148",
+    "under_odds": "+111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "−120",
+    "under_odds": "−111",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "−101",
+    "under_odds": "−131",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+109",
+    "under_odds": "−145",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+110",
+    "under_odds": "−146",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+113",
+    "under_odds": "−150",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+114",
+    "under_odds": "−151",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+114",
+    "under_odds": "−151",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+129",
+    "under_odds": "−173",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "gary trent jr.",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+133",
+    "under_odds": "−177",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+138",
+    "under_odds": "−184",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+147",
+    "under_odds": "−197",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+152",
+    "under_odds": "−205",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+152",
+    "under_odds": "−204",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+159",
+    "under_odds": "−214",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": "+179",
+    "under_odds": "−243",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−224",
+    "under_odds": "+166",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−220",
+    "under_odds": "+163",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−217",
+    "under_odds": "+161",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−189",
+    "under_odds": "+141",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−184",
+    "under_odds": "+138",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−182",
+    "under_odds": "+136",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−168",
+    "under_odds": "+126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−168",
+    "under_odds": "+126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−162",
+    "under_odds": "+122",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−162",
+    "under_odds": "+121",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−155",
+    "under_odds": "+117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−149",
+    "under_odds": "+112",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−144",
+    "under_odds": "+108",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−118",
+    "under_odds": "−113",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "−105",
+    "under_odds": "−126",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals",
+    "line": 0.5,
+    "over_odds": "+128",
+    "under_odds": "−171",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "−184",
+    "under_odds": "+137",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "−169",
+    "under_odds": "+127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "−137",
+    "under_odds": "+103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "+100",
+    "under_odds": "−133",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "+128",
+    "under_odds": "−171",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "+169",
+    "under_odds": "−228",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": "+179",
+    "under_odds": "−243",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−187",
+    "under_odds": "+140",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−170",
+    "under_odds": "+127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−170",
+    "under_odds": "+127",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−165",
+    "under_odds": "+124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−130",
+    "under_odds": "−102",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−128",
+    "under_odds": "−103",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−121",
+    "under_odds": "−109",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−114",
+    "under_odds": "−116",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−113",
+    "under_odds": "−117",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "wendell carter jr.",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "−107",
+    "under_odds": "−124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+100",
+    "under_odds": "−132",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+104",
+    "under_odds": "−138",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+135",
+    "under_odds": "−181",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy iii",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+139",
+    "under_odds": "−186",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+158",
+    "under_odds": "−212",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+166",
+    "under_odds": "−224",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+221",
+    "under_odds": "−304",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "blocks",
+    "line": 0.5,
+    "over_odds": "+245",
+    "under_odds": "−340",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals + blocks",
+    "line": 3.5,
+    "over_odds": "+111",
+    "under_odds": "−148",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "−126",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+107",
+    "under_odds": "−142",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+120",
+    "under_odds": "−160",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+120",
+    "under_odds": "−160",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+134",
+    "under_odds": "−180",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+135",
+    "under_odds": "−180",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals + blocks",
+    "line": 2.5,
+    "over_odds": "+142",
+    "under_odds": "−190",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−165",
+    "under_odds": "+124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−165",
+    "under_odds": "+124",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−156",
+    "under_odds": "+118",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "game": "PHO Suns @ GS Warriors",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−132",
+    "under_odds": "−101",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−125",
+    "under_odds": "−106",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "game": "OKC Thunder @ LA Clippers",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−116",
+    "under_odds": "−114",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "game": "MIL Bucks @ TOR Raptors",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "−103",
+    "under_odds": "−129",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "+103",
+    "under_odds": "−136",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "game": "ORL Magic @ ATL Hawks",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "+104",
+    "under_odds": "−138",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "game": "PHI 76ers @ CHI Bulls",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "+107",
+    "under_odds": "−142",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "game": "CHA Hornets @ NO Pelicans",
+    "prop_type": "steals + blocks",
+    "line": 1.5,
+    "over_odds": "+143",
+    "under_odds": "−192",
+    "sportsbook": "DraftKings",
+    "game_date": "2025-11-04"
+  }
+]

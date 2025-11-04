@@ -1,0 +1,5112 @@
+[
+  {
+    "player": "jared mccain",
+    "team": "Philadelphia 76ers",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "team": "Chicago Bulls",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "team": "Chicago Bulls",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "team": "Chicago Bulls",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "team": "Philadelphia 76ers",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "patrick williams",
+    "team": "Chicago Bulls",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "team": "Philadelphia 76ers",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaac okoro",
+    "team": "Chicago Bulls",
+    "prop_type": "points",
+    "line": 6.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "team": "Chicago Bulls",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre",
+    "team": "Philadelphia 76ers",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "team": "Chicago Bulls",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "points",
+    "line": 27.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 120,
+    "under_odds": -154,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "team": "Chicago Bulls",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": -156,
+    "under_odds": 122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "team": "Chicago Bulls",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "assists",
+    "line": 8.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "team": "Chicago Bulls",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -178,
+    "under_odds": 138,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "team": "Philadelphia 76ers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "team": "Philadelphia 76ers",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "team": "Chicago Bulls",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": 124,
+    "under_odds": -160,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "team": "Chicago Bulls",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 136,
+    "under_odds": -174,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "team": "Chicago Bulls",
+    "prop_type": "rebounds",
+    "line": 10.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre",
+    "team": "Philadelphia 76ers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -140,
+    "under_odds": 110,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "team": "Philadelphia 76ers",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "patrick williams",
+    "team": "Chicago Bulls",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "team": "Chicago Bulls",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaac okoro",
+    "team": "Chicago Bulls",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "team": "Chicago Bulls",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 130,
+    "under_odds": -166,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "team": "Philadelphia 76ers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 124,
+    "under_odds": -160,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "team": "Chicago Bulls",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -148,
+    "under_odds": 116,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "andre drummond",
+    "team": "Philadelphia 76ers",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pr",
+    "line": 20.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "team": "Chicago Bulls",
+    "prop_type": "pa",
+    "line": 15.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre",
+    "team": "Philadelphia 76ers",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "patrick williams",
+    "team": "Chicago Bulls",
+    "prop_type": "pr",
+    "line": 11.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pra",
+    "line": 21.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pa",
+    "line": 15.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "andre drummond",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pr",
+    "line": 9.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "team": "Chicago Bulls",
+    "prop_type": "pr",
+    "line": 21.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "team": "Chicago Bulls",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "pa",
+    "line": 29.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "team": "Chicago Bulls",
+    "prop_type": "pra",
+    "line": 22.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "team": "Chicago Bulls",
+    "prop_type": "pa",
+    "line": 13.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "team": "Philadelphia 76ers",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "team": "Chicago Bulls",
+    "prop_type": "pra",
+    "line": 21.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "ra",
+    "line": 17.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pra",
+    "line": 39.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "team": "Philadelphia 76ers",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "team": "Chicago Bulls",
+    "prop_type": "ra",
+    "line": 14.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pa",
+    "line": 35.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "pr",
+    "line": 29.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "ra",
+    "line": 11.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pra",
+    "line": 21.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pa",
+    "line": 19.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "pra",
+    "line": 37.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "team": "Chicago Bulls",
+    "prop_type": "pra",
+    "line": 16.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pra",
+    "line": 24.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pr",
+    "line": 31.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "team": "Chicago Bulls",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaac okoro",
+    "team": "Chicago Bulls",
+    "prop_type": "pr",
+    "line": 9.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "team": "Chicago Bulls",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "team": "Chicago Bulls",
+    "prop_type": "pa",
+    "line": 22.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "team": "Chicago Bulls",
+    "prop_type": "pra",
+    "line": 33.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "team": "Chicago Bulls",
+    "prop_type": "ra",
+    "line": 5.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "team": "Chicago Bulls",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "team": "Chicago Bulls",
+    "prop_type": "ra",
+    "line": 5.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "team": "Chicago Bulls",
+    "prop_type": "pr",
+    "line": 29.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "team": "Chicago Bulls",
+    "prop_type": "pa",
+    "line": 17.5,
+    "over_odds": -120,
+    "under_odds": -110,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "team": "Chicago Bulls",
+    "prop_type": "pa",
+    "line": 18.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jared mccain",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pra",
+    "line": 13.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "team": "Philadelphia 76ers",
+    "prop_type": "pa",
+    "line": 17.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "team": "Chicago Bulls",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "joel embiid",
+    "team": "Philadelphia 76ers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 118,
+    "under_odds": -150,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -172,
+    "under_odds": 134,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevin huerter",
+    "team": "Chicago Bulls",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -186,
+    "under_odds": 142,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "patrick williams",
+    "team": "Chicago Bulls",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 108,
+    "under_odds": -138,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 118,
+    "under_odds": -150,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jared mccain",
+    "team": "Philadelphia 76ers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 108,
+    "under_odds": -138,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nikola vucevic",
+    "team": "Chicago Bulls",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "quentin grimes",
+    "team": "Philadelphia 76ers",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre",
+    "team": "Philadelphia 76ers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ayo dosunmu",
+    "team": "Chicago Bulls",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 118,
+    "under_odds": -150,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "team": "Chicago Bulls",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -156,
+    "under_odds": 122,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kelly oubre",
+    "team": "Philadelphia 76ers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 116,
+    "under_odds": -158,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "matas buzelis",
+    "team": "Chicago Bulls",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": 178,
+    "under_odds": -245,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "josh giddey",
+    "team": "Chicago Bulls",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 148,
+    "under_odds": -200,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tyrese maxey",
+    "team": "Philadelphia 76ers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 108,
+    "under_odds": -144,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "vj edgecombe",
+    "team": "Philadelphia 76ers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 114,
+    "under_odds": -152,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre jones",
+    "team": "Chicago Bulls",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 116,
+    "under_odds": -154,
+    "game": "Philadelphia 76ers @ Chicago Bulls",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -136,
+    "under_odds": 102,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": -120,
+    "under_odds": -110,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "john collins",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "points",
+    "line": 30.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derrick jones",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -140,
+    "under_odds": 106,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "team": "Los Angeles Clippers",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -154,
+    "under_odds": 116,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "team": "Los Angeles Clippers",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -148,
+    "under_odds": 112,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -154,
+    "under_odds": 116,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "john collins",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -146,
+    "under_odds": 110,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 11.5,
+    "over_odds": 102,
+    "under_odds": -136,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 134,
+    "under_odds": -180,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 116,
+    "under_odds": -154,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 122,
+    "under_odds": -162,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derrick jones",
+    "team": "Los Angeles Clippers",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 104,
+    "under_odds": -138,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": 110,
+    "under_odds": -146,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -136,
+    "under_odds": 102,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": 104,
+    "under_odds": -138,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": -140,
+    "under_odds": 106,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pa",
+    "line": 12.5,
+    "over_odds": 102,
+    "under_odds": -136,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pa",
+    "line": 11.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pa",
+    "line": 37.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pr",
+    "line": 35.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "ra",
+    "line": 13.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pr",
+    "line": 11.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derrick jones",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "ra",
+    "line": 6.5,
+    "over_odds": 118,
+    "under_odds": -158,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pra",
+    "line": 21.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "s gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pra",
+    "line": 41.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pra",
+    "line": 34.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pra",
+    "line": 10.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pr",
+    "line": 8.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pr",
+    "line": 11.5,
+    "over_odds": -122,
+    "under_odds": -106,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 29.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -120,
+    "under_odds": -110,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "isaiah hartenstein",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": 104,
+    "under_odds": -138,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pra",
+    "line": 14.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "pra",
+    "line": 26.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 10.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "ra",
+    "line": 11.5,
+    "over_odds": 102,
+    "under_odds": -136,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pa",
+    "line": 17.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "john collins",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 22.5,
+    "over_odds": -128,
+    "under_odds": -104,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pr",
+    "line": 10.5,
+    "over_odds": -132,
+    "under_odds": 100,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "team": "Los Angeles Clippers",
+    "prop_type": "ra",
+    "line": 5.5,
+    "over_odds": -138,
+    "under_odds": 104,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kris dunn",
+    "team": "Los Angeles Clippers",
+    "prop_type": "pra",
+    "line": 13.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 142,
+    "under_odds": -192,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derrick jones",
+    "team": "Los Angeles Clippers",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 126,
+    "under_odds": -168,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -136,
+    "under_odds": 102,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -152,
+    "under_odds": 114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 154,
+    "under_odds": -210,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 136,
+    "under_odds": -182,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ajay mitchell",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 116,
+    "under_odds": -154,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 118,
+    "under_odds": -158,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "james harden",
+    "team": "Los Angeles Clippers",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 148,
+    "under_odds": -200,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ivica zubac",
+    "team": "Los Angeles Clippers",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luguentz dort",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 162,
+    "under_odds": -220,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "shai gilgeous-alexander",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "chet holmgren",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "alex caruso",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cason wallace",
+    "team": "Oklahoma City Thunder",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Oklahoma City Thunder @ Los Angeles Clippers",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "anthony black",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 24.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tristan da silva",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "zaccharie risacher",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "wendell carter",
+    "team": "Orlando Magic",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -120,
+    "under_odds": -104,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 16.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 134,
+    "under_odds": -172,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -162,
+    "under_odds": 126,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -166,
+    "under_odds": 130,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "goga bitadze",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "wendell carter",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": -148,
+    "under_odds": 116,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "anthony black",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -166,
+    "under_odds": 130,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "zaccharie risacher",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -154,
+    "under_odds": 120,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": 108,
+    "under_odds": -138,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 19.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "pa",
+    "line": 25.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 21.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 31.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "anthony black",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 32.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 37.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 23.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "pa",
+    "line": 13.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 17.5,
+    "over_odds": -132,
+    "under_odds": 100,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 16.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "zaccharie risacher",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 26.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 13.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 22.5,
+    "over_odds": -108,
+    "under_odds": -120,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "anthony black",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 15.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 23.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "n alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 23.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "pra",
+    "line": 24.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 14.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 5.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 12.5,
+    "over_odds": 100,
+    "under_odds": -132,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 11.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "pa",
+    "line": 24.5,
+    "over_odds": -128,
+    "under_odds": -104,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "pra",
+    "line": 33.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 28.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "ra",
+    "line": 13.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu",
+    "team": "Atlanta Hawks",
+    "prop_type": "pr",
+    "line": 20.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "wendell carter",
+    "team": "Orlando Magic",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "pa",
+    "line": 28.5,
+    "over_odds": -120,
+    "under_odds": -110,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "pa",
+    "line": 20.5,
+    "over_odds": -118,
+    "under_odds": -110,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "paolo banchero",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "desmond bane",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -164,
+    "under_odds": 128,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "luke kennard",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 110,
+    "under_odds": -140,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tristan da silva",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 176,
+    "under_odds": -230,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 0.5,
+    "over_odds": -158,
+    "under_odds": 124,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "onyeka okongwu",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 0.5,
+    "over_odds": -156,
+    "under_odds": 122,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "zaccharie risacher",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 138,
+    "under_odds": -178,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -136,
+    "under_odds": 106,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "nickeil alexander-walker",
+    "team": "Atlanta Hawks",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 146,
+    "under_odds": -188,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "franz wagner",
+    "team": "Orlando Magic",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 138,
+    "under_odds": -186,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen suggs",
+    "team": "Orlando Magic",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 178,
+    "under_odds": -245,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jalen johnson",
+    "team": "Atlanta Hawks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 108,
+    "under_odds": -144,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "dyson daniels",
+    "team": "Atlanta Hawks",
+    "prop_type": "steals",
+    "line": 2.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kristaps porzingis",
+    "team": "Atlanta Hawks",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": 116,
+    "under_odds": -158,
+    "game": "Orlando Magic @ Atlanta Hawks",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "saddiq bey",
+    "team": "New Orleans Pelicans",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "team": "Charlotte Hornets",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jordan poole",
+    "team": "New Orleans Pelicans",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevon looney",
+    "team": "New Orleans Pelicans",
+    "prop_type": "points",
+    "line": 6.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "team": "Charlotte Hornets",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moussa diabaté",
+    "team": "Charlotte Hornets",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "team": "New Orleans Pelicans",
+    "prop_type": "points",
+    "line": 17.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derik queen",
+    "team": "New Orleans Pelicans",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "team": "Charlotte Hornets",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jose alvarado",
+    "team": "New Orleans Pelicans",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "team": "Charlotte Hornets",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy",
+    "team": "New Orleans Pelicans",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "team": "Charlotte Hornets",
+    "prop_type": "points",
+    "line": 23.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "team": "Charlotte Hornets",
+    "prop_type": "points",
+    "line": 20.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy",
+    "team": "New Orleans Pelicans",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -136,
+    "under_odds": 106,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "team": "Charlotte Hornets",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "team": "Charlotte Hornets",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "team": "Charlotte Hornets",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "team": "New Orleans Pelicans",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "team": "Charlotte Hornets",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "saddiq bey",
+    "team": "New Orleans Pelicans",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 114,
+    "under_odds": -146,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "team": "Charlotte Hornets",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derik queen",
+    "team": "New Orleans Pelicans",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "team": "Charlotte Hornets",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -142,
+    "under_odds": 112,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy",
+    "team": "New Orleans Pelicans",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "team": "Charlotte Hornets",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": 108,
+    "under_odds": -138,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moussa diabaté",
+    "team": "Charlotte Hornets",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "team": "Charlotte Hornets",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "team": "Charlotte Hornets",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "team": "Charlotte Hornets",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -166,
+    "under_odds": 130,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevon looney",
+    "team": "New Orleans Pelicans",
+    "prop_type": "rebounds",
+    "line": 9.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "team": "New Orleans Pelicans",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pra",
+    "line": 30.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "team": "Charlotte Hornets",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "team": "Charlotte Hornets",
+    "prop_type": "pa",
+    "line": 18.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pa",
+    "line": 22.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "team": "Charlotte Hornets",
+    "prop_type": "pra",
+    "line": 23.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pr",
+    "line": 21.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "team": "Charlotte Hornets",
+    "prop_type": "pra",
+    "line": 35.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "saddiq bey",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "team": "Charlotte Hornets",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "team": "Charlotte Hornets",
+    "prop_type": "pr",
+    "line": 30.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pa",
+    "line": 24.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "team": "Charlotte Hornets",
+    "prop_type": "ra",
+    "line": 11.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy",
+    "team": "New Orleans Pelicans",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kevon looney",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pra",
+    "line": 26.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "team": "Charlotte Hornets",
+    "prop_type": "pr",
+    "line": 20.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "team": "Charlotte Hornets",
+    "prop_type": "pa",
+    "line": 26.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sion james",
+    "team": "Charlotte Hornets",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "team": "Charlotte Hornets",
+    "prop_type": "pr",
+    "line": 16.5,
+    "over_odds": -108,
+    "under_odds": -118,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "team": "Charlotte Hornets",
+    "prop_type": "pa",
+    "line": 27.5,
+    "over_odds": -128,
+    "under_odds": -102,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "team": "New Orleans Pelicans",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "team": "Charlotte Hornets",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": 104,
+    "under_odds": -132,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "derik queen",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pa",
+    "line": 14.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "team": "Charlotte Hornets",
+    "prop_type": "ra",
+    "line": 6.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "team": "Charlotte Hornets",
+    "prop_type": "pa",
+    "line": 17.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "team": "Charlotte Hornets",
+    "prop_type": "pra",
+    "line": 20.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "moussa diabaté",
+    "team": "Charlotte Hornets",
+    "prop_type": "pr",
+    "line": 17.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "ra",
+    "line": 6.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "team": "Charlotte Hornets",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "team": "Charlotte Hornets",
+    "prop_type": "pr",
+    "line": 23.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jordan poole",
+    "team": "New Orleans Pelicans",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -132,
+    "under_odds": 104,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jeremiah fears",
+    "team": "New Orleans Pelicans",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 110,
+    "under_odds": -140,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "saddiq bey",
+    "team": "New Orleans Pelicans",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin sexton",
+    "team": "Charlotte Hornets",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -142,
+    "under_odds": 112,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "tre mann",
+    "team": "Charlotte Hornets",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -184,
+    "under_odds": 142,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "miles bridges",
+    "team": "Charlotte Hornets",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "trey murphy",
+    "team": "New Orleans Pelicans",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 140,
+    "under_odds": -180,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kon knueppel",
+    "team": "Charlotte Hornets",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -170,
+    "under_odds": 132,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "herbert jones",
+    "team": "New Orleans Pelicans",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 100,
+    "under_odds": -132,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan kalkbrenner",
+    "team": "Charlotte Hornets",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": -178,
+    "under_odds": 132,
+    "game": "Charlotte Hornets @ New Orleans Pelicans",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "buddy hield",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "oso ighodaro",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 4.5,
+    "over_odds": 104,
+    "under_odds": -138,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 11.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 26.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 28.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": -120,
+    "under_odds": -110,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 10.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "team": "Phoenix Suns",
+    "prop_type": "points",
+    "line": 12.5,
+    "over_odds": -104,
+    "under_odds": -128,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -104,
+    "under_odds": -128,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": -132,
+    "under_odds": 100,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -180,
+    "under_odds": 134,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 5.5,
+    "over_odds": -132,
+    "under_odds": 100,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": 114,
+    "under_odds": -152,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 2.5,
+    "over_odds": -154,
+    "under_odds": 116,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -138,
+    "under_odds": 104,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -162,
+    "under_odds": 122,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 128,
+    "under_odds": -172,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 2.5,
+    "over_odds": -174,
+    "under_odds": 130,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "oso ighodaro",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 142,
+    "under_odds": -192,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 110,
+    "under_odds": -146,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": 108,
+    "under_odds": -144,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": 102,
+    "under_odds": -136,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": 114,
+    "under_odds": -152,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 4.5,
+    "over_odds": -158,
+    "under_odds": 118,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "team": "Phoenix Suns",
+    "prop_type": "rebounds",
+    "line": 8.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "pra",
+    "line": 39.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "pa",
+    "line": 35.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 14.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "pa",
+    "line": 16.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 22.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 24.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "ra",
+    "line": 7.5,
+    "over_odds": -140,
+    "under_odds": 106,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "pra",
+    "line": 19.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": 100,
+    "under_odds": -132,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 22.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": 108,
+    "under_odds": -144,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": 104,
+    "under_odds": -138,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 32.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 21.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "pra",
+    "line": 18.5,
+    "over_odds": -125,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "pa",
+    "line": 13.5,
+    "over_odds": -120,
+    "under_odds": -110,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "ra",
+    "line": 6.5,
+    "over_odds": -148,
+    "under_odds": 114,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "pra",
+    "line": 22.5,
+    "over_odds": -128,
+    "under_odds": -104,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "pa",
+    "line": 19.5,
+    "over_odds": -118,
+    "under_odds": -112,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 36.5,
+    "over_odds": -120,
+    "under_odds": -110,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -122,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 28.5,
+    "over_odds": -122,
+    "under_odds": -106,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 31.5,
+    "over_odds": -128,
+    "under_odds": -104,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 21.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "pa",
+    "line": 16.5,
+    "over_odds": -132,
+    "under_odds": 100,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "ra",
+    "line": 10.5,
+    "over_odds": -130,
+    "under_odds": -102,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "pr",
+    "line": 14.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "pr",
+    "line": 30.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "grayson allen",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 122,
+    "under_odds": -162,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "buddy hield",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -122,
+    "under_odds": -108,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 4.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandin podziemski",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -188,
+    "under_odds": 140,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jonathan kuminga",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 138,
+    "under_odds": -186,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 126,
+    "under_odds": -168,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan dunn",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 118,
+    "under_odds": -158,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "devin booker",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "royce oneale",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 3.5,
+    "over_odds": 142,
+    "under_odds": -192,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin gillespie",
+    "team": "Phoenix Suns",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -102,
+    "under_odds": -130,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jimmy butler",
+    "team": "Golden State Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 126,
+    "under_odds": -168,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "stephen curry",
+    "team": "Golden State Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 134,
+    "under_odds": -180,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "mark williams",
+    "team": "Phoenix Suns",
+    "prop_type": "blocks",
+    "line": 1.5,
+    "over_odds": 138,
+    "under_odds": -186,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "draymond green",
+    "team": "Golden State Warriors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 116,
+    "under_odds": -158,
+    "game": "Phoenix Suns @ Golden State Warriors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 15.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 18.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 14.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kyle kuzma",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 28.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "gary trent",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 13.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "aj green",
+    "team": "Milwaukee Bucks",
+    "prop_type": "points",
+    "line": 9.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sandro mamukelashvili",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 5.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 8.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 21.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin murray-boyles",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 7.5,
+    "over_odds": -130,
+    "under_odds": 102,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "points",
+    "line": 19.5,
+    "over_odds": -118,
+    "under_odds": -108,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "assists",
+    "line": 6.5,
+    "over_odds": 126,
+    "under_odds": -162,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "assists",
+    "line": 7.5,
+    "over_odds": 116,
+    "under_odds": -148,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -160,
+    "under_odds": 124,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "team": "Milwaukee Bucks",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": 112,
+    "under_odds": -142,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "assists",
+    "line": 3.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "assists",
+    "line": 4.5,
+    "over_odds": -142,
+    "under_odds": 112,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": 124,
+    "under_odds": -158,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kyle kuzma",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -102,
+    "under_odds": -125,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 11.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 5.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 7.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "sandro mamukelashvili",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": 106,
+    "under_odds": -136,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "rebounds",
+    "line": 6.5,
+    "over_odds": 110,
+    "under_odds": -140,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin murray-boyles",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -160,
+    "under_odds": 124,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "rebounds",
+    "line": 3.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 19.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "pra",
+    "line": 26.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 25.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pa",
+    "line": 19.5,
+    "over_odds": -106,
+    "under_odds": -125,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "ra",
+    "line": 19.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "g antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pra",
+    "line": 48.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pa",
+    "line": 36.5,
+    "over_odds": -108,
+    "under_odds": -122,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "pa",
+    "line": 25.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "giannis antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 40.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pa",
+    "line": 12.5,
+    "over_odds": -112,
+    "under_odds": -118,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -138,
+    "under_odds": 108,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 20.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "kyle kuzma",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": -125,
+    "under_odds": -102,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "ra",
+    "line": 8.5,
+    "over_odds": -136,
+    "under_odds": 106,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 26.5,
+    "over_odds": -122,
+    "under_odds": -104,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "ra",
+    "line": 12.5,
+    "over_odds": -113,
+    "under_odds": -113,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pr",
+    "line": 18.5,
+    "over_odds": 100,
+    "under_odds": -128,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "ra",
+    "line": 9.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "pra",
+    "line": 31.5,
+    "over_odds": -113,
+    "under_odds": -115,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "pra",
+    "line": 23.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "pa",
+    "line": 22.5,
+    "over_odds": -110,
+    "under_odds": -120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "pra",
+    "line": 31.5,
+    "over_odds": -104,
+    "under_odds": -122,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "pa",
+    "line": 23.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "jakob poeltl",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 15.5,
+    "over_odds": -115,
+    "under_odds": -111,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "collin murray-boyles",
+    "team": "Toronto Raptors",
+    "prop_type": "pr",
+    "line": 12.5,
+    "over_odds": 102,
+    "under_odds": -130,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "pra",
+    "line": 29.5,
+    "over_odds": -111,
+    "under_odds": -115,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 110,
+    "under_odds": -140,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "aj green",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -106,
+    "under_odds": -120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "brandon ingram",
+    "team": "Toronto Raptors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -120,
+    "under_odds": -106,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "gary trent",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": -146,
+    "under_odds": 114,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "cole anthony",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": 180,
+    "under_odds": -235,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -142,
+    "under_odds": 112,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -154,
+    "under_odds": 120,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "threes",
+    "line": 2.5,
+    "over_odds": 140,
+    "under_odds": -180,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "threes",
+    "line": 1.5,
+    "over_odds": -128,
+    "under_odds": 100,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "scottie barnes",
+    "team": "Toronto Raptors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 138,
+    "under_odds": -186,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "immanuel quickley",
+    "team": "Toronto Raptors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 194,
+    "under_odds": -270,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "ryan rollins",
+    "team": "Milwaukee Bucks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": -114,
+    "under_odds": -114,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "rj barrett",
+    "team": "Toronto Raptors",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 194,
+    "under_odds": -270,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "myles turner",
+    "team": "Milwaukee Bucks",
+    "prop_type": "blocks",
+    "line": 2.5,
+    "over_odds": 154,
+    "under_odds": -210,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  },
+  {
+    "player": "gary trent",
+    "team": "Milwaukee Bucks",
+    "prop_type": "steals",
+    "line": 1.5,
+    "over_odds": 148,
+    "under_odds": -200,
+    "game": "Milwaukee Bucks @ Toronto Raptors",
+    "game_date": "2025-11-04"
+  }
+]
